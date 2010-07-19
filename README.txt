@@ -3,7 +3,7 @@ Corporate Computer Manager Client - for Windows XP, Vista, 7, 2003, 2008 - Requi
 
 INSTALLATION:
 1. Look in the release folder for the CCM folder.
-2. Make it a network share on a server. I use a WINS/DNS alias name so mine looks like this: //ccm/ccm that is the default of the application. If you need to change this it will look for clientControlPath in the registry under whatever you've specified in the configuration.txt file under setup.
+2. Make it a network share on a server. I use a WINS/DNS alias name so mine looks like this: \\ccm\ccm that is the default of the application. If you need to change this it will look for clientControlPath in the registry under whatever you've specified in the configuration.txt file under setup.
 3. Run the CCMClient.exe file from the share.
 4. It will/should do the rest. If you don't use the default path or recompile with your own path you'll have to add the registry key to each client.
 
