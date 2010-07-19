@@ -26,7 +26,7 @@ Tray icon application that can be deployed to all workstations on a corporate or
 
 --------
 
-I've tried to trim off most of the unnecessary stuff and may have gotten some necessary stuff in the process. This build was created for public use. There are 2 other related appliations. The CCMAdmin that gives a graphical environment to manage apps from (a compliled version is included in this package) and the CCMService which is really very useful on Windows XP. It keeps the Client alive.
+I've tried to trim off most of the unnecessary stuff and may have gotten some necessary stuff in the process. This build was created for public use. There are 2 other related applications. The CCMAdmin that gives a graphical environment to manage apps from (a compliled version is included in this package) and the CCMService which is really very useful on Windows XP. It keeps the Client alive.
 
 While the application does function in the post XP Windows environments the "session 0 isolation" does become a bit funky. If demand merits I will enhance the tray support for those OSes. In the meantime it will function quite well as a Task Scheduler process.
 
