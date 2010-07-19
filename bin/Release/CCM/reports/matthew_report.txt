@@ -1,0 +1,54 @@
+Timestamp: 15/06/2010 15:40
+Windows: Microsoft Windows NT 5.1.2600  (Service Pack 3) ---bad version---
+Yours:[Microsoft Windows NT 5.1.2600 Service Pack 3 (Service Pack 3)] Standard:[Microsoft Windows NT 6.1.7600.0 (No Service Pack Installed),Microsoft Windows NT 5.2.3790 Service Pack 2 (Service Pack 2)]
+Processor: GenuineIntel x86 Family 6 Model 13 Stepping 8
+
+IBS Workstation: 15052010
+dotNet Version: 2.0.50727.3607---bad version---
+Yours:[2.0.50727.3607] Standard:[2.0.50727.4927,2.0.50727.4918,2.0.50727.3521,2.0.50727.42,2.0.50727.832,2.0.50727.312,2.0.50727.3082,2.0.50727.1433]
+Auto Update: False
+Enter = Send: False
+Auto Hide: False
+Disable Pops: False
+Workstation Started: 15/06/2010 09:58
+Command Line: "C:\CCM\CCMClient.exe" 
+Path: \\ccm\ccm
+
+User: DOMAIN\matthew
+Home Directory: C:\Documents and Settings\matthew
+Login Status: Logged In
+Program Context: SYSTEM
+Computer: MATTHEW
+Hostname: matthew
+IP Address: 10.10.1.147
+Refresh Rate: 60
+Screen Resolution: 1024x768x4294967296
+
+Display Adapter: Intel(R) 82852/82855 GM/GME Graphics Controller, Intel(R) 82852/82855 GM/GME Graphics Controller
+Last Reboot: 15/06/2010 10:37:07
+Memory: 501.662MB
+Processor Speed: 1495mHz
+Manufacturer: TOSHIBA
+Model: Satellite PRO L10               
+Disk Drive(s): 40.008G
+Free Space: 16.346G
+Bios Version: TOSQCI - 20020413
+Network: Realtek RTL8139/810x Family Fast Ethernet NIC - Packet Scheduler Miniport, INPROCOMM IPN2220 Wireless LAN Card - Packet Scheduler Miniport
+Mac Address(es): 00:C0:9F:A7:FB:7C, 00:14:A4:11:39:3A
+Internet Explorer: 7.0.5730.11---bad Version---
+Yours: [7.0.5730.11] Standard: [8.0.7000.0, 8.0.7100.0, 8.0.7600.16385]
+CCM Admin: \\ccm\ccm
+Filedisk: Not Found ---bad--- This is a required component
+Workstation Service: 1.0.3154.35641 - 20/08/2008
+AntiVirus: Not Found ---bad--- This is a required component
+Virus Definitions: Not Found ---bad--- This is a required component
+Mozilla Firefox: 1.9.0.19 - 11/05/2010
+---badVersion---
+-Yours:[1.9.0.19] Standard:[1.9.2.3,1.9.2.3]
+OFFICE 2003: 11.0.8324 - 17/04/2010
+---badVersion---
+-Yours:[11.0.8324] Standard:[11.0.8202,11.0.8221]
+---badDate---
+-Yours:[17/04/2010] Standard:[11/19/2007,19/11/2007,5/27/2008,05/27/2008,27/5/2008,27/05/2008]
+VNC: 3, 3, 7, 0 - 12/08/2004
+Error Count: 9

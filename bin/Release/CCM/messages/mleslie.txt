@@ -1,0 +1,6 @@
+<PACKAGE>
+users=leslie
+file=%showPopup%
+message=u there?
+title=Reticon
+</PACKAGE>

@@ -1,0 +1,342 @@
+Timestamp: 15/06/2010 09:58
+Microsoft Windows NT 5.1.2600 Service Pack 3
+AddressBook
+Adobe Flash Player 10 ActiveX - 10.1.51.95
+Adobe Flash Player 10 Plugin - 10.1.51.95
+Adobe Shockwave Player - 11
+Applian FLV Player - 2.0.24
+AVG7Uninstall
+AVG Free 8.5
+BBC Alerts (remove only)
+Branding
+Canon LBP2900
+SoftV92 Data Fax Modem with SmartCP
+Conexant AC-Link Audio
+Connection Manager
+DirectAnimation
+DirectDrawEx
+DXM_Runtime
+EPSON Printer Software
+EPSON Scan
+Fontcore
+Google Chrome - 5.0.375.55
+ICW
+Microsoft Internationalized Domain Names Mitigation APIs
+IE40
+IE4Data
+IE5BAKEX
+Windows Internet Explorer 7 - 20061107.210142
+IEData
+InstallShield Uninstall Information
+Toshiba Utility - 1.03.09
+InstallShield_{204D794F-379C-4629-9FF0-D3894260EBAF}
+InstallShield_{8136ADEE-7FA1-4091-900C-DD0229BFE14F}
+Toshiba Touchpad Utility - 1.03.09
+KB884016
+KB884267
+KB885353
+KB886612
+KB887078
+KB887626
+KB888656
+KB889858
+KB891122
+KB892313
+KB893240
+KB893241
+KB893803
+KB895181
+KB895316
+KB895572
+KB897586
+Security Update for Step By Step Interactive Training (KB898458) - 20050502.101010
+KB898549
+KB900399
+KB902344
+KB907658
+Security Update for Windows Media Player (KB911564)
+Security Update for Windows Media Player 10 (KB911565)
+KB911854
+Security Update for Windows Media Player 10 (KB917734)
+Security Update for Windows XP (KB923561) - 1
+Security Update for Step By Step Interactive Training (KB923723) - 20050502.101010
+Security Update for Windows Media Player 6.4 (KB925398)
+Hotfix for Windows Media Format 11 SDK (KB929399)
+Security Update for Windows Internet Explorer 7 (KB929969) - 20061222.120000
+Security Update for Windows Internet Explorer 7 (KB931768) - 1
+Security Update for CAPICOM (KB931906) - 2.1.0.2
+Hotfix for Microsoft .NET Framework 3.0 (KB932471) - 1
+Security Update for Windows Internet Explorer 7 (KB933566) - 1
+Security Update for Windows Media Player 11 (KB936782)
+Security Update for Windows Internet Explorer 7 (KB937143) - 1
+Security Update for Windows Internet Explorer 7 (KB938127) - 1
+Security Update for Windows XP (KB938464) - 1
+Security Update for Windows Internet Explorer 7 (KB939653) - 1
+Hotfix for Windows Media Player 11 (KB939683)
+Security Update for Windows XP (KB941569)
+Security Update for Windows Internet Explorer 7 (KB942615) - 1
+Update for Windows XP (KB943729)
+Security Update for Windows Internet Explorer 7 (KB944533) - 1
+Security Update for Windows XP (KB946648) - 1
+Security Update for Windows Internet Explorer 7 (KB950759) - 1
+Security Update for Windows XP (KB950760) - 1
+Security Update for Windows XP (KB950762) - 1
+Security Update for Windows XP (KB950974) - 1
+Security Update for Windows XP (KB951066) - 1
+Update for Windows XP (KB951072-v2) - 2
+Security Update for Windows XP (KB951376-v2) - 2
+Update for Windows XP (KB951618-v2) - 2
+Security Update for Windows XP (KB951698) - 1
+Security Update for Windows XP (KB951748) - 1
+Update for Windows XP (KB951978) - 1
+Security Update for Windows XP (KB952004) - 1
+Security Update for Windows Media Player (KB952069)
+Hotfix for Windows XP (KB952287) - 1
+Security Update for Windows XP (KB952954) - 1
+Security Update for Windows Internet Explorer 7 (KB953838) - 1
+Security Update for Windows XP (KB953839) - 1
+Security Update for Windows Media Player 11 (KB954154)
+Security Update for Windows Media Player (KB954155)
+Security Update for Windows XP (KB954211) - 1
+Security Update for Windows XP (KB954459) - 1
+Hotfix for Windows XP (KB954550-v5) - 5
+Security Update for Windows XP (KB954600) - 1
+Security Update for Windows XP (KB955069) - 1
+Update for Windows XP (KB955759) - 1
+Update for Windows XP (KB955839) - 1
+Security Update for Windows Internet Explorer 7 (KB956390) - 1
+Security Update for Windows XP (KB956391) - 1
+Security Update for Windows XP (KB956572) - 1
+Security Update for Windows XP (KB956744) - 1
+Security Update for Windows XP (KB956802) - 1
+Security Update for Windows XP (KB956803) - 1
+Security Update for Windows XP (KB956841) - 1
+Security Update for Windows XP (KB956844) - 1
+Security Update for Windows XP (KB957095) - 1
+Security Update for Windows XP (KB957097) - 1
+Security Update for Windows Internet Explorer 7 (KB958215) - 1
+Security Update for Windows XP (KB958644) - 1
+Security Update for Windows XP (KB958687) - 1
+Security Update for Windows XP (KB958690) - 1
+Security Update for Windows XP (KB958869) - 1
+Security Update for Windows XP (KB959426) - 1
+Critical Update for Windows Media Player 11 (KB959772)
+Security Update for Windows XP (KB960225) - 1
+Security Update for Windows Internet Explorer 7 (KB960714) - 1
+Security Update for Windows XP (KB960715) - 1
+Security Update for Windows XP (KB960803) - 1
+Security Update for Windows XP (KB960859) - 1
+Hotfix for Windows XP (KB961118) - 1
+Security Update for Windows Internet Explorer 7 (KB961260) - 1
+Security Update for Windows XP (KB961371) - 1
+Security Update for Windows XP (KB961373) - 1
+Security Update for Windows XP (KB961501) - 1
+Security Update for Windows Internet Explorer 7 (KB963027) - 1
+Update for Windows XP (KB967715) - 1
+Update for Windows XP (KB968389) - 1
+Security Update for Windows XP (KB968537) - 1
+Security Update for Windows Media Player (KB968816)
+Windows Management Framework Core
+Security Update for Windows XP (KB969059) - 1
+Hotfix for Windows XP (KB969084) - 3
+Security Update for Windows Internet Explorer 7 (KB969897) - 1
+Security Update for Windows XP (KB969898) - 1
+Security Update for Windows XP (KB969947) - 1
+Security Update for Windows XP (KB970238) - 1
+Security Update for Windows XP (KB970430) - 1
+Hotfix for Windows XP (KB970653-v3) - 3
+Security Update for Windows XP (KB971468) - 1
+Security Update for Windows XP (KB971486) - 1
+Update for Microsoft Windows (KB971513)
+Security Update for Windows XP (KB971557) - 1
+Security Update for Windows XP (KB971633) - 1
+Security Update for Windows XP (KB971657) - 1
+Update for Windows XP (KB971737) - 1
+Security Update for Windows XP (KB971961) - 1
+Security Update for Windows Internet Explorer 7 (KB972260) - 1
+Security Update for Windows XP (KB972270) - 1
+Security Update for Windows XP (KB973346) - 1
+Security Update for Windows XP (KB973354) - 1
+Security Update for Windows XP (KB973507) - 1
+Security Update for Windows XP (KB973525) - 1
+Security Update for Windows Media Player (KB973540)
+Update for Windows XP (KB973687) - 1
+Update for Windows XP (KB973815) - 1
+Security Update for Windows XP (KB973869) - 1
+Security Update for Windows XP (KB973904) - 1
+Security Update for Windows XP (KB974112) - 1
+Security Update for Windows XP (KB974318) - 1
+Security Update for Windows XP (KB974392) - 1
+Security Update for Windows Internet Explorer 7 (KB974455) - 1
+Security Update for Windows XP (KB974571) - 1
+Security Update for Windows XP (KB975025) - 1
+Security Update for Windows XP (KB975467) - 1
+Security Update for Windows XP (KB975560) - 1
+Security Update for Windows XP (KB975561) - 1
+Security Update for Windows XP (KB975562) - 1
+Security Update for Windows XP (KB975713) - 1
+Hotfix for Windows XP (KB976098-v2) - 2
+Security Update for Windows Internet Explorer 7 (KB976325) - 1
+Update for Windows Internet Explorer 7 (KB976749) - 1
+Security Update for Windows XP (KB977165) - 1
+Security Update for Windows XP (KB977816) - 1
+Security Update for Windows XP (KB977914) - 1
+Security Update for Windows XP (KB978037) - 1
+Security Update for Windows Internet Explorer 7 (KB978207) - 1
+Security Update for Windows XP (KB978251) - 1
+Security Update for Windows XP (KB978262) - 1
+Security Update for Windows XP (KB978338) - 1
+Security Update for Windows XP (KB978542) - 1
+Security Update for Windows XP (KB978601) - 1
+Security Update for Windows Media Player (KB978695)
+Security Update for Windows XP (KB978706) - 1
+Hotfix for Windows XP (KB979306) - 1
+Security Update for Windows XP (KB979309) - 1
+Security Update for Windows XP (KB979482) - 1
+Security Update for Windows XP (KB979559) - 1
+Security Update for Windows XP (KB979683) - 1
+Update for Windows Internet Explorer 7 (KB980182) - 1
+Security Update for Windows XP (KB980195) - 1
+Security Update for Windows XP (KB980218) - 1
+Security Update for Windows XP (KB980232) - 1
+Security Update for Windows XP (KB981349) - 1
+Hotfix for Windows XP (KB981793) - 1
+Security Update for Windows Internet Explorer 7 (KB982381) - 1
+Microsoft .NET Framework 1.1 Security Update (KB979906)
+Microsoft .NET Framework 1.1
+Microsoft .NET Framework 3.5 SP1
+Microsoft Interactive Training
+MobileOptionPack
+Mozilla Firefox (3.0.19) - 3.0.19 (en-US)
+MPlayer2
+Microsoft Compression Client Pack 1.0 for Windows XP - 1
+MSI30-Beta1
+MSI30-Beta2
+MSI30-KB884016
+MSI30-RC1
+MSI30-RC2
+MSI30a-KB884016
+MSI31-Beta
+MSI31-RC1
+NetMeeting
+Microsoft National Language Support Downlevel APIs
+OutlookExpress
+PC Diagnostic Tool
+PCFriendly
+PCHealth
+RealJukebox 1.0
+RealPlayer
+RegCure 1.3.0.2 - 1.3.0.2
+SchedulingAgent
+Shockwave
+Synaptics Pointing Device Driver - 7.12.3.0
+TOSHIBA Software Modem - 2.0.9.0(RST2090CXT1)
+Windows Imaging Component - 3.0.0.0
+Windows Media Format 11 runtime
+Windows Media Player 11
+Windows XP Service Pack 3 - 20080414.031525
+WMCSetup
+Windows Media Format 11 runtime
+Windows Media Player 11
+Microsoft User-Mode Driver Framework Feature Pack 1.0
+XML Paper Specification Shared Components Pack 1.0
+
+-MANAGED CODE
+Macromedia Flash Player - 7.0.19.0
+Toshiba Utility - 1.03.09
+MSXML 6.0 Parser (KB933579) - 6.10.1200.0
+Security Update for CAPICOM (KB931906) - 2.1.0.2
+Google Toolbar for Internet Explorer - 1.0.0
+TOSHIBA Manuals
+Toshiba Hotkey Utility - 1.23.00
+Google Toolbar for Internet Explorer
+Java(TM) 6 Update 13 - 6.0.130
+{2CCBABCB-6427-4A55-B091-49864623C43F} - 7.0.20100326
+J2SE Runtime Environment 5.0 - 1.5.0
+J2SE Runtime Environment 5.0 Update 4 - 1.5.0.40
+J2SE Runtime Environment 5.0 Update 6 - 1.5.0.60
+J2SE Runtime Environment 5.0 Update 9 - 1.5.0.90
+Java(TM) SE Runtime Environment 6 Update 1 - 1.6.0.10
+Java(TM) 6 Update 3 - 1.6.0.30
+WebFldrs XP - 9.50.7523
+MSXML 4.0 SP2 (KB927978) - 4.20.9841.0
+TOSHIBA Console
+INPROCOMM Wireless LAN
+O&O CleverCache - 6.1.2332
+Touch and Launch
+{5E977DEC-5BB4-44C7-9FE5-9357D2DB4FCB}
+Windows Rights Management Client with Service Pack 2 - 5.2.95
+Windows Genuine Advantage v1.3.0254.0 - 1.3.0254.0
+TOSHIBA Zooming Utility
+MSN Toolbar - 3.0.621.0
+Disc2Phone - 1.3.0.106
+Java 2 Runtime Environment, SE v1.4.2_05 - 1.4.2_05
+Microsoft Visual C++ 2005 Redistributable - 8.0.56336
+Microsoft Visual C++ 2005 ATL Update kb973923 - x86 8.0.50727.4053 - 8.0.50727.4053
+MSXML 4.0 SP2 (KB954430) - 4.20.9870.0
+Microsoft Silverlight - 1.0.30401.0
+Intel(R) Extreme Graphics 2 Driver
+SMART Board Software - 9.1.4.51
+Roxio Burn Engine - 2.5.0000
+Microsoft Office Professional Edition 2003 - 11.0.8173.0
+InterVideo WinDVD for TOSHIBA - 5.0-B11.463
+Microsoft Office OneNote 2003 - 11.0.8173.0
+REALTEK Gigabit and Fast Ethernet NIC Driver - 1.60
+CD/DVD Drive Acoustic Silencer - 1.00.005
+Microsoft .NET Framework 3.0 Service Pack 2 - 3.2.30729
+{A3051CD0-2F64-3813-A88D-B8DCCDE8F8C7}.KB300003
+{A3051CD0-2F64-3813-A88D-B8DCCDE8F8C7}.KB958483
+{A3051CD0-2F64-3813-A88D-B8DCCDE8F8C7}.KB960043
+{A3051CD0-2F64-3813-A88D-B8DCCDE8F8C7}.KB975195
+{A3051CD0-2F64-3813-A88D-B8DCCDE8F8C7}.KB976570
+{A3051CD0-2F64-3813-A88D-B8DCCDE8F8C7}.KB976578
+{A3051CD0-2F64-3813-A88D-B8DCCDE8F8C7}.KB976578v2
+{A3051CD0-2F64-3813-A88D-B8DCCDE8F8C7}.KB976769
+{A3051CD0-2F64-3813-A88D-B8DCCDE8F8C7}.KB976769v2
+{A3051CD0-2F64-3813-A88D-B8DCCDE8F8C7}.KB977354
+{A3051CD0-2F64-3813-A88D-B8DCCDE8F8C7}.KB977354v2
+Google Update Helper - 1.2.183.23
+Adobe Reader 7.0.9 - 7.0.9
+TOSHIBA PC Diagnostic Tool
+Windows Presentation Foundation - 3.0.6920.0
+TOSHIBA ConfigFree - 4.90.57a
+MSXML 4.0 SP2 (KB936181) - 4.20.9848.0
+Microsoft .NET Framework 2.0 Service Pack 2 - 2.2.30729
+{C09FB3CD-3D0C-3F2D-899A-6A1D67F2073F}.KB200003
+{C09FB3CD-3D0C-3F2D-899A-6A1D67F2073F}.KB431780
+{C09FB3CD-3D0C-3F2D-899A-6A1D67F2073F}.KB946922
+{C09FB3CD-3D0C-3F2D-899A-6A1D67F2073F}.KB947748
+{C09FB3CD-3D0C-3F2D-899A-6A1D67F2073F}.KB949272
+{C09FB3CD-3D0C-3F2D-899A-6A1D67F2073F}.KB952137
+{C09FB3CD-3D0C-3F2D-899A-6A1D67F2073F}.KB952677
+{C09FB3CD-3D0C-3F2D-899A-6A1D67F2073F}.KB953300
+{C09FB3CD-3D0C-3F2D-899A-6A1D67F2073F}.KB953990
+{C09FB3CD-3D0C-3F2D-899A-6A1D67F2073F}.KB954832
+{C09FB3CD-3D0C-3F2D-899A-6A1D67F2073F}.KB956860
+{C09FB3CD-3D0C-3F2D-899A-6A1D67F2073F}.KB957541
+{C09FB3CD-3D0C-3F2D-899A-6A1D67F2073F}.KB957542
+{C09FB3CD-3D0C-3F2D-899A-6A1D67F2073F}.KB957543
+{C09FB3CD-3D0C-3F2D-899A-6A1D67F2073F}.KB958129
+{C09FB3CD-3D0C-3F2D-899A-6A1D67F2073F}.KB958481
+{C09FB3CD-3D0C-3F2D-899A-6A1D67F2073F}.KB960043
+{C09FB3CD-3D0C-3F2D-899A-6A1D67F2073F}.KB971111
+{C09FB3CD-3D0C-3F2D-899A-6A1D67F2073F}.KB974417
+{C09FB3CD-3D0C-3F2D-899A-6A1D67F2073F}.KB976569
+{C09FB3CD-3D0C-3F2D-899A-6A1D67F2073F}.KB976576
+{C09FB3CD-3D0C-3F2D-899A-6A1D67F2073F}.KB976765v2
+{C09FB3CD-3D0C-3F2D-899A-6A1D67F2073F}.KB979909
+{C09FB3CD-3D0C-3F2D-899A-6A1D67F2073F}.KB980773
+Microsoft .NET Framework 1.1 - 1.1.4322
+Microsoft .NET Framework 3.5 SP1 - 3.5.30729
+{CE2CDD62-0124-36CA-84D3-9F4DCF5C5BD9}.KB350003
+Hotfix for Microsoft .NET Framework 3.5 SP1 (KB953595) - 1
+Hotfix for Microsoft .NET Framework 3.5 SP1 (KB958484) - 1
+{CE2CDD62-0124-36CA-84D3-9F4DCF5C5BD9}.KB960043
+Update for Microsoft .NET Framework 3.5 SP1 (KB963707) - 1
+{E85FA9A1-C241-4698-893B-DD99509B8DB0}
+Windows Rights Management Client Backwards Compatibility SP2 - 5.2.95
+{F64306A5-4C32-41bb-B153-53986527FAB4}
+MSXML 4.0 SP2 (KB973688) - 4.20.9876.0
+Toshiba Touchpad Utility - 1.03.09
+32 Bit HP CIO Components Installer - 2.1.4
+HighMAT Extension to Microsoft Windows XP CD Writing Wizard - 1.1.1905.1

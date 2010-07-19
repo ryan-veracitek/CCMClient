@@ -1,0 +1,5 @@
+<PACKAGE>
+users=all
+file=%clientRestart%
+arguments=
+</PACKAGE>

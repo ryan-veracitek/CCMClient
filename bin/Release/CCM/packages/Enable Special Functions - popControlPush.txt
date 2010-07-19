@@ -1,0 +1,8 @@
+<PACKAGE>
+CREATED BY: reticon
+title=Enable Special Functions
+message=
+file=%enableSpecialFunctions%
+notice=
+arguments=
+</PACKAGE>

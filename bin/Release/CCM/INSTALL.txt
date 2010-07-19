@@ -1,0 +1,3 @@
+the contents of the CCM folder is a sample starting point for the file share you will use for controlling the clients, and recieving reports. This file share name is default in the source as: \\ccm\ccm ... in a domain environment it could be shared normally with group permissions applied to your liking. In a workgroup environment it will require a null-session share such as this \\ccm\ccm$ ... search google for how to configure a null-session share.
+
+<>< Reticon

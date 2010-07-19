@@ -1,0 +1,9 @@
+<PACKAGE>
+MODIFIED BY: admin
+title=Restart Client
+message=
+file=%clientRestart%
+notice=
+arguments=
+users=reticon
+</PACKAGE>

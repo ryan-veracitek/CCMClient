@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CCMClient">
+</Property><Property Name="Solution File" Value="C:\webdev\KISC\ccmc\CCMClient.sln">
+</Property><Property Name="User Options File" Value="C:\webdev\KISC\ccmc\CCMClient.suo">
+</Property><Property Name="Date" Value="Monday, August 20, 2007">
+</Property><Property Name="Time" Value="16:38 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="CCMClient.sln" Description="File successfully backed up as C:\webdev\KISC\ccmcold\Backup\CCMClient.sln">
+</Event><Event ErrorLevel="0" Project="" Source="CCMClient.suo" Description="File successfully backed up as C:\webdev\KISC\ccmcold\Backup\CCMClient.suo">
+</Event><Event ErrorLevel="0" Project="CCMClient" Source="CCMClient.csproj" Description="Project file successfully backed up as C:\webdev\KISC\ccmcold\Backup\CCMClient.csproj">
+</Event><Event ErrorLevel="0" Project="CCMClient" Source="CCMClient.csproj.user" Description="Project user file successfully backed up as C:\webdev\KISC\ccmcold\Backup\CCMClient.csproj.user">
+</Event><Event ErrorLevel="0" Project="CCMClient" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\webdev\KISC\ccmcold\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="CCMClient" Source="dataTool.cs" Description="File successfully backed up as C:\webdev\KISC\ccmcold\Backup\dataTool.cs">
+</Event><Event ErrorLevel="0" Project="CCMClient" Source="DDEListener.cs" Description="File successfully backed up as C:\webdev\KISC\ccmcold\Backup\DDEListener.cs">
+</Event><Event ErrorLevel="0" Project="CCMClient" Source="eventLog.cs" Description="File successfully backed up as C:\webdev\KISC\ccmcold\Backup\eventLog.cs">
+</Event><Event ErrorLevel="0" Project="CCMClient" Source="Form1.cs" Description="File successfully backed up as C:\webdev\KISC\ccmcold\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="CCMClient" Source="message.cs" Description="File successfully backed up as C:\webdev\KISC\ccmcold\Backup\message.cs">
+</Event><Event ErrorLevel="0" Project="CCMClient" Source="NotifyIconEx.cs" Description="File successfully backed up as C:\webdev\KISC\ccmcold\Backup\NotifyIconEx.cs">
+</Event><Event ErrorLevel="0" Project="CCMClient" Source="SID.cs" Description="File successfully backed up as C:\webdev\KISC\ccmcold\Backup\SID.cs">
+</Event><Event ErrorLevel="0" Project="CCMClient" Source="systemInventory.cs" Description="File successfully backed up as C:\webdev\KISC\ccmcold\Backup\systemInventory.cs">
+</Event><Event ErrorLevel="0" Project="CCMClient" Source="Win32.cs" Description="File successfully backed up as C:\webdev\KISC\ccmcold\Backup\Win32.cs">
+</Event><Event ErrorLevel="0" Project="CCMClient" Source="app.config" Description="File successfully backed up as C:\webdev\KISC\ccmcold\Backup\app.config">
+</Event><Event ErrorLevel="0" Project="CCMClient" Source="CCMClient.config" Description="File successfully backed up as C:\webdev\KISC\ccmcold\Backup\CCMClient.config">
+</Event><Event ErrorLevel="0" Project="CCMClient" Source="logoNorm.ico" Description="File successfully backed up as C:\webdev\KISC\ccmcold\Backup\logoNorm.ico">
+</Event><Event ErrorLevel="0" Project="CCMClient" Source="DDEListener.resx" Description="File successfully backed up as C:\webdev\KISC\ccmcold\Backup\DDEListener.resx">
+</Event><Event ErrorLevel="0" Project="CCMClient" Source="Form1.resx" Description="File successfully backed up as C:\webdev\KISC\ccmcold\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="CCMClient" Source="message.resx" Description="File successfully backed up as C:\webdev\KISC\ccmcold\Backup\message.resx">
+</Event><Event ErrorLevel="0" Project="CCMClient" Source="NotifyIconEx.resx" Description="File successfully backed up as C:\webdev\KISC\ccmcold\Backup\NotifyIconEx.resx">
+</Event><Event ErrorLevel="0" Project="CCMClient" Source="CCMClient.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="CCMClient" Source="CCMClient.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="CCMClient.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="CCMClient.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CCMClient" Source="app.config" Description="File converted successfully. All &lt;supportedRuntime&gt; and &lt;requiredRuntime&gt; tags were removed to enable the project to build and run with Visual Studio 2005.">
+</Event><Event ErrorLevel="3" Project="CCMClient" Source="app.config" Description="Converted">
+</Event></UpgradeLog>

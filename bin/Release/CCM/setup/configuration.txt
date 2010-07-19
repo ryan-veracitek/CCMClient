@@ -1,0 +1,12 @@
+------- WARNING MODIFICATION OF THIS FILE WITHOUT THE PERMISSION 
+------- OF VeraciTek.com IS NOT PROHIBITED.
+<CONFIGURATION>	
+  <SITESTRINGS>
+    copyRight=NEVER! OpenSource, RULES
+    programTitle=VTek Workstation
+    logTo=VTek Workstation Logger
+    DDEServer=OFF
+    database=OFF
+    orgName=VTEK
+  </SITESTRINGS>
+</CONFIGURATION>

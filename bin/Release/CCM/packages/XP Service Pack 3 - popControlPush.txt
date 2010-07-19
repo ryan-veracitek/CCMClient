@@ -1,0 +1,8 @@
+<PACKAGE>
+MODIFIED BY: reticon
+title=XP Service Pack 3
+message=
+file=\\someserver\someshare\xpsp3.exe
+notice=
+arguments=/quiet /norestart
+</PACKAGE>

@@ -1,0 +1,230 @@
+<FILEDEF>
+
+<servers>
+names=server1,server2,server3
+</servers>
+
+<illegalPrograms>
+names=severina.exe,isetup.exe,kinza.exe,games.exe,ntdetect.exe,virusremoval.vbs,other.exe,boot.vbs,sviq.exe,dc.exe,fun.exe,hints.exe,ravmon.exe,autorun.inf,winsit.exe,wproxp.exe,\win.exe,scanner.exe,shellexe.exe,90imhpnc.exe,kavo.exe,semiantivirus.vbs,war3.exe
+</illegalPrograms>
+
+<allowedPrograms>
+names=t:\setup.exe,t:\Reg\Setup.exe,t:\launcher.exe,t:\install\_isdel.exe,t:\install\ereg\ereg32.exe,t:\install\_setup.exe,t:\install\setup32.exe,t:\play.exe,c:,d:,y:,z:,\\server1,\\server2,\\server3
+</allowedPrograms>
+
+<laptops>
+names=laptop1,laptop2
+</laptops>
+
+<personal>
+names=user1,user2
+</personal>
+
+<remoteControlMessage>
+Information Services is currently controlling your computer for maintenance or troubleshooting.
+</remoteControlMessage>
+
+<admin>
+names=reticon
+</admin>
+
+<dotNet>
+version=2.0.50727.4927,2.0.50727.4918,2.0.50727.3521,2.0.50727.42,2.0.50727.832,2.0.50727.312,2.0.50727.3082,2.0.50727.1433
+xversion=1.1.4322.573,1.1.4322.2032
+</dotNet>
+
+<OS>
+version=Microsoft Windows NT 6.1.7600.0 (No Service Pack Installed),Microsoft Windows NT 5.2.3790 Service Pack 2 (Service Pack 2)
+icon=0,0,0,1,0
+isserver=0,0,0,1,0
+</OS>
+
+<REFRESH RATE>
+min=59
+</REFRESH RATE>
+<WMI>
+title=Display Adapter
+wmiLocation=Win32_VideoController
+wmiItem=Name
+</WMI>
+
+
+<WMI>
+title=Last Reboot
+wmiLocation=Win32_OperatingSystem
+wmiItem=LastBootUpTime
+wmiDataType=DateTime
+</WMI>
+
+
+<WMI>
+title=Memory
+wmiLocation=Win32_ComputerSystem
+wmiItem=totalphysicalmemory
+min=256
+divisor=1000000
+units=MB
+</WMI>
+
+<WMI>
+title=Processor Speed
+wmiLocation=Win32_Processor
+wmiItem=CurrentClockSpeed
+min=800
+units=mHz
+</WMI>
+
+
+<WMI>
+title=Manufacturer
+wmiLocation=Win32_ComputerSystem
+wmiItem=manufacturer
+min=0
+</WMI>
+
+<WMI>
+title=Model
+wmiLocation=Win32_ComputerSystem
+wmiItem=model
+min=0
+</WMI>
+
+<WMI>
+title=Disk Drive(s)
+wmiLocation=Win32_DiskDrive
+wmiItem=size
+divisor=1000000000
+units=G
+min=0
+</WMI>
+
+<WMI>
+title=Free Space
+wmiLocation=Win32_LogicalDisk
+wmiItem=freespace
+criteria=DriveType is 3
+divisor=1000000000
+units=G
+min=.2
+</WMI>
+
+<WMI>
+title=Bios Version
+wmiLocation=Win32_bios
+wmiItem=version
+min=0
+</WMI>
+
+<WMI>
+title=Network
+wmiLocation=Win32_NetworkAdapterConfiguration
+wmiItem=description
+criteria=IPEnabled is True
+min=0
+</WMI>
+
+<WMI>
+title=Mac Address(es)
+wmiLocation=Win32_NetworkAdapterConfiguration
+wmiItem=MacAddress
+criteria=IPEnabled is True
+</WMI>
+
+
+
+
+<zFILE>
+title=KB870765 (Junk Email Update)
+path=C:\Program Files\Microsoft Office\OFFICE11
+name=OUTLFLTR.DAT
+date=1/5/2009
+required=0
+</zFILE>
+
+
+
+<RKEY>
+title=Internet Explorer
+location=HKEY_LOCAL_MACHINE
+path=Software
+key=Microsoft
+patch=Internet Explorer
+sval=Version
+version=8.0.7000.0,8.0.7100.0,8.0.7600.16385
+required=1
+</RKEY>
+
+<RKEY>
+title=CCM Admin
+location=HKEY_LOCAL_MACHINE
+path=Software
+key=VeraciTek.Com
+patch=
+sval=clientControlPath
+</RKEY>
+
+
+<xFILE>
+title=Internet Explorer
+path=%windir%
+name=shdocvw.dll
+zpath=C:\Program Files\Internet Explorer
+zname=IEXPLORE.EXE
+date=2/20/2007
+version=7.00.6000.16441 (vista_gdr.070219-1500),7.0.5730.13,8.0.7600.16385 
+</xFILE>
+
+<FILE>
+title=Workstation Service
+path=C:\windows,C:\winnt
+name=ccmstart*.exe,ccmstart*.exe
+required=1
+date=8/20/2008,20/08/2008,20/8/2008,08/20/2008
+version=1.0.3154.35641
+</FILE>
+
+<FILE>
+title=AntiVirus
+path=C:\Program Files\ClamWin\bin,C:\Program Files (x86)\AVG\AVG9,C:\Program Files\AVG\AVG9
+name=clam*.exe,avg*.exe,avg*.exe
+required=1
+zversion=8.0.0.84
+version=0.96.0.1, 9.0.0.814, 9.0.0.814
+</FILE>
+
+<FILE>
+title=Virus Definitions
+path=C:\ProgramData\avg9\CfgAll,C:\Documents and Settings\All Users\.clamwin\db
+name=*.CFG,daily.CLD
+required=1
+date=22/4/2010,4/22/2010,4/21/2010,21/4/2010
+</FILE>
+
+
+<FILE>
+title=Mozilla Firefox
+path=C:\Program Files (x86)\Mozilla Firefox,C:\Program Files\Mozilla Firefox
+name=firef*.exe,firef*.exe
+version=1.9.2.3,1.9.2.3
+required=1
+</FILE>
+
+
+<FILE>
+title=OFFICE 2003
+path=C:\Program Files\Common Files\Microsoft Shared\OFFICE11,C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE11
+name=mso.dl*,mso.dl*
+date=11/19/2007,19/11/2007,5/27/2008,05/27/2008,27/5/2008,27/05/2008
+version=11.0.8202,11.0.8221
+</FILE>
+
+
+<FILE>
+title=VNC
+path=C:\Program Files\Orl\VNC,C:\Program Files\RealVNC\VNC4,C:\Program Files\UltraVNC
+name=winvnc.exe,winvnc*.exe,winvnc*.exe
+required=1
+</FILE>
+
+
+</FILEDEF>

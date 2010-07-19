@@ -1,0 +1,8 @@
+<PACKAGE>
+MODIFIED BY: reticon
+title=Workstation Setup
+message=Installing Necessary Programs!
+file=\\ccm\CCM\packages\supportFiles\workstationSetup.bat
+notice=
+arguments=
+</PACKAGE>

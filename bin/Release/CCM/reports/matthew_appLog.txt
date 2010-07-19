@@ -1,0 +1,812 @@
+ 15/06/2010 09:54:13: Information - SceCli
+Security policy in the Group policy objects has been applied successfully.
+ 15/06/2010 09:53:57: Information - gupdate1c9d5179bba2916
+The description for Event ID '0' in Source 'gupdate1c9d5179bba2916' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service stopped'
+ 15/06/2010 09:53:35: Information - SecurityCenter
+The Security Center service has been stopped.  It was prevented from running by a software group policy.
+ 15/06/2010 09:53:29: Warning - EventSystem
+The COM+ Event System failed to create an instance of the subscriber partition:{41E90F3E-56C1-4633-81C3-6E8BAC8BDD70}!new:{6295DF2D-35EE-11D1-8707-00C04FD93327}.  CoGetObject returned HRESULT 8000401A.
+ 15/06/2010 09:53:21: Information - gupdate1c9d5179bba2916
+The description for Event ID '0' in Source 'gupdate1c9d5179bba2916' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service started'
+ 15/06/2010 09:50:00: Information - MsiInstaller
+Product: Microsoft Office Professional Edition 2003 -- Configuration completed successfully.
+ 15/06/2010 09:50:00: Information - MsiInstaller
+Product: Microsoft Office Professional Edition 2003 - Update 'Security Update for Office 2003 (KB982311): MSO' installed successfully.
+ 15/06/2010 09:49:14: Information - MsiInstaller
+Product: Microsoft Office OneNote 2003 -- Configuration completed successfully.
+ 15/06/2010 09:49:14: Information - MsiInstaller
+Product: Microsoft Office OneNote 2003 - Update 'Security Update for Office 2003 (KB982311): MSO' installed successfully.
+ 15/06/2010 09:48:00: Information - MsiInstaller
+Product: Microsoft Office Professional Edition 2003 -- Configuration completed successfully.
+ 15/06/2010 09:48:00: Information - MsiInstaller
+Product: Microsoft Office Professional Edition 2003 - Update 'Security Update for Excel 2003 (KB982133): EXCEL' installed successfully.
+ 15/06/2010 09:38:01: Information - MsiInstaller
+Product: Microsoft .NET Framework 1.1 -- Configuration completed successfully.
+ 15/06/2010 09:38:01: Information - MsiInstaller
+Product: Microsoft .NET Framework 1.1 - Update '{2A3320D6-C805-4280-B423-B665BDE33D8F}' installed successfully.
+ 15/06/2010 09:35:54: Information - MsiInstaller
+Product: Microsoft Fix it 50123 -- Installation completed successfully.
+ 15/06/2010 09:35:54: Error - crypt32
+Failed auto update retrieval of third-party root list sequence number from: <http://www.download.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootseq.txt> with error: This network connection does not exist.
+
+ 15/06/2010 09:35:54: Error - crypt32
+Failed auto update retrieval of third-party root list sequence number from: <http://www.download.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootseq.txt> with error: This network connection does not exist.
+
+ 15/06/2010 09:35:54: Error - crypt32
+Failed auto update retrieval of third-party root list sequence number from: <http://www.download.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootseq.txt> with error: 403 (HTTP Response Status)
+ 15/06/2010 09:35:17: Information - MsiInstaller
+Product: Microsoft Office Professional Edition 2003 -- Configuration completed successfully.
+ 15/06/2010 09:35:17: Information - MsiInstaller
+Product: Microsoft Office Professional Edition 2003 - Update 'Security Update for Publisher 2003 (KB982122): MSPUB' installed successfully.
+ 15/06/2010 09:34:35: Information - MsiInstaller
+Product: Microsoft Office Professional Edition 2003 -- Configuration completed successfully.
+ 15/06/2010 09:34:35: Information - MsiInstaller
+Product: Microsoft Office Professional Edition 2003 - Update 'Security Update for Word 2003 (KB982134): WINWORD' installed successfully.
+ 15/06/2010 09:32:58: Information - MsiInstaller
+Product: Microsoft Office Professional Edition 2003 -- Configuration completed successfully.
+ 15/06/2010 09:32:58: Information - MsiInstaller
+Product: Microsoft Office Professional Edition 2003 - Update 'Update for Outlook 2003: Junk E-mail Filter (KB983503): OUTLFLTR' installed successfully.
+ 15/06/2010 09:17:30: Information - MsiInstaller
+Product: Microsoft .NET Framework 3.0 Service Pack 2 -- Configuration completed successfully.
+ 15/06/2010 09:17:30: Information - MsiInstaller
+Product: Microsoft .NET Framework 3.0 Service Pack 2 - Update 'KB976769v2' installed successfully.
+ 15/06/2010 09:17:29: Information - LoadPerf
+Performance counters for the MSDTC Bridge 3.0.0.0 (MSDTC Bridge 3.0.0.0) service are already in Performance
+Registry, no need to re-install again.
+ 15/06/2010 09:17:29: Information - LoadPerf
+Performance counters for the SMSvcHost 3.0.0.0 (SMSvcHost 3.0.0.0) service are already in Performance
+Registry, no need to re-install again.
+ 15/06/2010 09:17:29: Information - LoadPerf
+Performance counters for the ServiceModelService 3.0.0.0 (ServiceModelService 3.0.0.0) service are already in Performance
+Registry, no need to re-install again.
+ 15/06/2010 09:17:29: Information - LoadPerf
+Performance counters for the ServiceModelOperation 3.0.0.0 (ServiceModelOperation 3.0.0.0) service are already in Performance
+Registry, no need to re-install again.
+ 15/06/2010 09:17:29: Information - LoadPerf
+Performance counters for the ServiceModelEndpoint 3.0.0.0 (ServiceModelEndpoint 3.0.0.0) service are already in Performance
+Registry, no need to re-install again.
+ 15/06/2010 09:17:17: Information - System.ServiceModel.Install 3.0.0.0
+The ServiceModelReg tool has completed successfully.
+ 15/06/2010 09:17:07: Warning - System.ServiceModel.Install 3.0.0.0
+Configuration section system.serviceModel.activation already exists in c:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\Config\machine.config.
+ 15/06/2010 09:17:07: Warning - System.ServiceModel.Install 3.0.0.0
+Configuration section system.runtime.serialization already exists in c:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\Config\machine.config.
+ 15/06/2010 09:17:07: Warning - System.ServiceModel.Install 3.0.0.0
+Configuration section system.serviceModel already exists in c:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\Config\machine.config.
+ 15/06/2010 09:17:05: Information - System.ServiceModel.Install 3.0.0.0
+The ServiceModelReg tool will take the following actions:
+Reinstalling configuration section system.serviceModel to c:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\Config\machine.config.
+Reinstalling configuration section system.runtime.serialization to c:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\Config\machine.config.
+Reinstalling configuration section system.serviceModel.activation to c:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\Config\machine.config.
+Adding configuration entry for BuildProvider:
+	System.ServiceModel.Activation.ServiceBuildProvider, System.ServiceModel, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Reinstalling compilation assembly node to System.Web section group:
+	System.Runtime.Serialization, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+Reinstalling compilation assembly node to System.Web section group:
+	System.IdentityModel, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+Reinstalling compilation assembly node to System.Web section group:
+	System.ServiceModel, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Reinstalling HttpHandlers node to System.Web section group:
+	*.svc
+Reinstalling HttpModules node to System.Web section group:
+	ServiceModel
+Reinstalling WMI classes.
+Reinstalling Windows CardSpace (idsvc).
+Reinstalling Net.Tcp Port Sharing Service (NetTcpPortSharing).
+Reinstalling HTTP namespace reservations.
+ 15/06/2010 09:17:05: Warning - System.ServiceModel.Install 3.0.0.0
+Could not detect IIS installation or IIS is disabled, skipping the Web Host Script Mappings component since it depends upon IIS to function properly.
+If you believe this message is an error, check your IIS installation to make sure it is installed properly.
+ 15/06/2010 09:15:58: Information - MsiInstaller
+Product: Microsoft .NET Framework 2.0 Service Pack 2 -- Configuration completed successfully.
+ 15/06/2010 09:15:58: Information - MsiInstaller
+Product: Microsoft .NET Framework 2.0 Service Pack 2 - Update 'KB980773' installed successfully.
+ 15/06/2010 09:15:58: Information - MsiInstaller
+Product: Microsoft .NET Framework 2.0 Service Pack 2 - Update 'KB976765' installed successfully.
+ 15/06/2010 09:15:57: Information - LoadPerf
+Performance counters for the .NETFramework (.NETFramework) service are already in Performance
+Registry, no need to re-install again.
+ 15/06/2010 09:15:56: Information - LoadPerf
+Performance counters for the .NET CLR Data (.NET CLR Data) service are already in Performance
+Registry, no need to re-install again.
+ 15/06/2010 09:15:56: Information - LoadPerf
+Performance counters for the .NET CLR Networking (.NET CLR Networking) service are already in Performance
+Registry, no need to re-install again.
+ 15/06/2010 09:15:56: Information - LoadPerf
+Performance counters for the .NET Data Provider for SqlServer (.NET Data Provider for SqlServer) service are already in Performance
+Registry, no need to re-install again.
+ 15/06/2010 09:15:56: Information - LoadPerf
+Performance counters for the .NET Data Provider for Oracle (.NET Data Provider for Oracle) service are already in Performance
+Registry, no need to re-install again.
+ 15/06/2010 09:14:53: Information - ASP.NET 2.0.50727.0
+Finish registering ASP.NET (version 2.0.50727.0). Detailed registration logs can be found in C:\WINDOWS\TEMP\ASPNETSetup_00010.log
+ 15/06/2010 09:14:53: Warning - ASP.NET 2.0.50727.0
+Updates to the IIS metabase were aborted because IIS is either not installed or is disabled on this machine. To configure ASP.NET to run in IIS, please install or enable IIS and re-register ASP.NET using aspnet_regiis.exe /i.
+ 15/06/2010 09:14:51: Information - LoadPerf
+Performance counters for the ASP.NET (ASP.NET) service were loaded successfully.
+The Record Data contains the new index values assigned
+to this service.
+ 15/06/2010 09:14:50: Information - LoadPerf
+Performance counters for the ASP.NET (ASP.NET) service were removed successfully.
+The Record Data contains the new values of the system Last Counter and
+Last Help registry entries.
+ 15/06/2010 09:14:50: Information - LoadPerf
+Performance counters for the ASP.NET_2.0.50727 (ASP.NET_2.0.50727) service were loaded successfully.
+The Record Data contains the new index values assigned
+to this service.
+ 15/06/2010 09:14:48: Information - LoadPerf
+Performance counters for the aspnet_state (ASP.NET State Service) service were loaded successfully.
+The Record Data contains the new index values assigned
+to this service.
+ 15/06/2010 09:14:47: Information - LoadPerf
+Performance counters for the aspnet_state (ASP.NET State Service) service were removed successfully.
+The Record Data contains the new values of the system Last Counter and
+Last Help registry entries.
+ 15/06/2010 09:14:40: Information - LoadPerf
+Performance counters for the ASP.NET_2.0.50727 (ASP.NET_2.0.50727) service were removed successfully.
+The Record Data contains the new values of the system Last Counter and
+Last Help registry entries.
+ 15/06/2010 09:14:39: Information - ASP.NET 2.0.50727.0
+Start registering ASP.NET (version 2.0.50727.0) (internal flag: 0x00000406)
+ 15/06/2010 09:08:28: Information - MsiInstaller
+Product: Microsoft .NET Framework 2.0 Service Pack 2 -- Configuration completed successfully.
+ 15/06/2010 09:08:28: Information - MsiInstaller
+Product: Microsoft .NET Framework 2.0 Service Pack 2 - Update 'KB979909' installed successfully.
+ 15/06/2010 09:08:27: Information - LoadPerf
+Performance counters for the .NETFramework (.NETFramework) service are already in Performance
+Registry, no need to re-install again.
+ 15/06/2010 09:08:27: Information - LoadPerf
+Performance counters for the .NET CLR Data (.NET CLR Data) service are already in Performance
+Registry, no need to re-install again.
+ 15/06/2010 09:08:27: Information - LoadPerf
+Performance counters for the .NET CLR Networking (.NET CLR Networking) service are already in Performance
+Registry, no need to re-install again.
+ 15/06/2010 09:08:26: Information - LoadPerf
+Performance counters for the .NET Data Provider for SqlServer (.NET Data Provider for SqlServer) service are already in Performance
+Registry, no need to re-install again.
+ 15/06/2010 09:08:26: Information - LoadPerf
+Performance counters for the .NET Data Provider for Oracle (.NET Data Provider for Oracle) service are already in Performance
+Registry, no need to re-install again.
+ 15/06/2010 09:07:28: Information - ASP.NET 2.0.50727.0
+Finish registering ASP.NET (version 2.0.50727.0). Detailed registration logs can be found in C:\WINDOWS\TEMP\ASPNETSetup_00009.log
+ 15/06/2010 09:07:28: Warning - ASP.NET 2.0.50727.0
+Updates to the IIS metabase were aborted because IIS is either not installed or is disabled on this machine. To configure ASP.NET to run in IIS, please install or enable IIS and re-register ASP.NET using aspnet_regiis.exe /i.
+ 15/06/2010 09:07:26: Information - LoadPerf
+Performance counters for the ASP.NET (ASP.NET) service were loaded successfully.
+The Record Data contains the new index values assigned
+to this service.
+ 15/06/2010 09:07:25: Information - LoadPerf
+Performance counters for the ASP.NET (ASP.NET) service were removed successfully.
+The Record Data contains the new values of the system Last Counter and
+Last Help registry entries.
+ 15/06/2010 09:07:25: Information - LoadPerf
+Performance counters for the ASP.NET_2.0.50727 (ASP.NET_2.0.50727) service were loaded successfully.
+The Record Data contains the new index values assigned
+to this service.
+ 15/06/2010 09:07:22: Information - LoadPerf
+Performance counters for the aspnet_state (ASP.NET State Service) service were loaded successfully.
+The Record Data contains the new index values assigned
+to this service.
+ 15/06/2010 09:07:20: Information - LoadPerf
+Performance counters for the aspnet_state (ASP.NET State Service) service were removed successfully.
+The Record Data contains the new values of the system Last Counter and
+Last Help registry entries.
+ 15/06/2010 09:07:13: Information - LoadPerf
+Performance counters for the ASP.NET_2.0.50727 (ASP.NET_2.0.50727) service were removed successfully.
+The Record Data contains the new values of the system Last Counter and
+Last Help registry entries.
+ 15/06/2010 09:07:12: Information - ASP.NET 2.0.50727.0
+Start registering ASP.NET (version 2.0.50727.0) (internal flag: 0x00000406)
+ 15/06/2010 09:01:07: Information - MsiInstaller
+Product: Microsoft Fix it 50123 -- Installation completed successfully.
+ 15/06/2010 09:01:07: Error - crypt32
+Failed auto update retrieval of third-party root list sequence number from: <http://www.download.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootseq.txt> with error: This network connection does not exist.
+
+ 15/06/2010 09:01:07: Error - crypt32
+Failed auto update retrieval of third-party root list sequence number from: <http://www.download.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootseq.txt> with error: This network connection does not exist.
+
+ 15/06/2010 09:01:07: Error - crypt32
+Failed auto update retrieval of third-party root list sequence number from: <http://www.download.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootseq.txt> with error: 403 (HTTP Response Status)
+ 15/06/2010 08:57:16: Information - MsiInstaller
+Product: Microsoft Office Professional Edition 2003 -- Configuration completed successfully.
+ 15/06/2010 08:57:16: Information - MsiInstaller
+Product: Microsoft Office Professional Edition 2003 - Update 'Security Update for PowerPoint 2003 (KB982157): POWERPNT' installed successfully.
+ 15/06/2010 08:55:50: Information - MsiInstaller
+Product: Microsoft Office Professional Edition 2003 -- Configuration completed successfully.
+ 15/06/2010 08:55:50: Information - MsiInstaller
+Product: Microsoft Office Professional Edition 2003 - Update 'Security Update for InfoPath 2003 (KB980923): INFOPATH' installed successfully.
+ 15/06/2010 08:52:32: Warning - Userenv
+Windows saved user KISC\matthew registry while an application or service was still using the registry during log off. The memory used by the user's registry has not been freed. The registry will be unloaded when it is no longer in use. 
+
+
+This is often caused by services running as a user account, try configuring the services to run in either the LocalService or NetworkService account.
+ 15/06/2010 08:42:07: Information - MsiInstaller
+Product: 32 Bit HP CIO Components Installer -- Configuration completed successfully.
+ 15/06/2010 08:27:30: Information - SceCli
+Security policy in the Group policy objects has been applied successfully.
+ 15/06/2010 08:27:22: Information - gupdate1c9d5179bba2916
+The description for Event ID '0' in Source 'gupdate1c9d5179bba2916' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service stopped'
+ 15/06/2010 08:26:58: Information - SecurityCenter
+The Security Center service has been stopped.  It was prevented from running by a software group policy.
+ 15/06/2010 08:26:55: Warning - EventSystem
+The COM+ Event System failed to create an instance of the subscriber partition:{41E90F3E-56C1-4633-81C3-6E8BAC8BDD70}!new:{6295DF2D-35EE-11D1-8707-00C04FD93327}.  CoGetObject returned HRESULT 8000401A.
+ 15/06/2010 08:26:47: Information - gupdate1c9d5179bba2916
+The description for Event ID '0' in Source 'gupdate1c9d5179bba2916' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service started'
+ 08/06/2010 13:23:17: Warning - Userenv
+Windows saved user KISC\matthew registry while an application or service was still using the registry during log off. The memory used by the user's registry has not been freed. The registry will be unloaded when it is no longer in use. 
+
+
+This is often caused by services running as a user account, try configuring the services to run in either the LocalService or NetworkService account.
+ 08/06/2010 08:33:46: Error - Application Hang
+Hanging application firefox.exe, version 1.9.0.3725, hang module hungapp, version 0.0.0.0, hang address 0x00000000.
+ 08/06/2010 08:28:50: Information - gusvc
+The description for Event ID '0' in Source 'gusvc' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service stopped'
+ 08/06/2010 08:27:59: Error - AutoEnrollment
+Automatic certificate enrollment for local system failed to contact the active directory (0x8007054b).  The specified domain either does not exist or could not be contacted.
+  Enrollment will not be performed.
+ 08/06/2010 08:27:41: Information - gusvc
+The description for Event ID '0' in Source 'gusvc' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service started'
+ 04/06/2010 13:43:00: Information - gusvc
+The description for Event ID '0' in Source 'gusvc' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service stopped'
+ 04/06/2010 13:42:00: Information - gusvc
+The description for Event ID '0' in Source 'gusvc' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service started'
+ 04/06/2010 13:29:43: Information - SceCli
+Security policy in the Group policy objects has been applied successfully.
+ 04/06/2010 13:29:35: Information - gupdate1c9d5179bba2916
+The description for Event ID '0' in Source 'gupdate1c9d5179bba2916' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service stopped'
+ 04/06/2010 13:29:09: Information - SecurityCenter
+The Security Center service has been stopped.  It was prevented from running by a software group policy.
+ 04/06/2010 13:29:06: Warning - EventSystem
+The COM+ Event System failed to create an instance of the subscriber partition:{41E90F3E-56C1-4633-81C3-6E8BAC8BDD70}!new:{6295DF2D-35EE-11D1-8707-00C04FD93327}.  CoGetObject returned HRESULT 8000401A.
+ 04/06/2010 13:29:00: Information - gupdate1c9d5179bba2916
+The description for Event ID '0' in Source 'gupdate1c9d5179bba2916' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service started'
+ 03/06/2010 16:24:46: Information - MsiInstaller
+Product: Microsoft Office Professional Edition 2003 -- Configuration completed successfully.
+ 03/06/2010 16:24:46: Information - MsiInstaller
+Product: Microsoft Office Professional Edition 2003 - Update 'Security Update for Office 2003 (KB976382): VBE6' installed successfully.
+ 03/06/2010 16:11:22: Information - MsiInstaller
+Product: Microsoft Office Professional Edition 2003 -- Configuration completed successfully.
+ 03/06/2010 16:11:22: Information - MsiInstaller
+Product: Microsoft Office Professional Edition 2003 - Update 'Update for Outlook 2003: Junk E-mail Filter (KB981725): OUTLFLTR' installed successfully.
+ 03/06/2010 16:05:25: Information - MsiInstaller
+Product: Microsoft Office Professional Edition 2003 -- Configuration completed successfully.
+ 03/06/2010 16:05:25: Information - MsiInstaller
+Product: Microsoft Office Professional Edition 2003 - Update 'Security Update for Publisher 2003 (KB980469): MSPUB' installed successfully.
+ 03/06/2010 16:02:19: Warning - Userenv
+Windows saved user KISC\matthew registry while an application or service was still using the registry during log off. The memory used by the user's registry has not been freed. The registry will be unloaded when it is no longer in use. 
+
+
+This is often caused by services running as a user account, try configuring the services to run in either the LocalService or NetworkService account.
+ 03/06/2010 13:43:02: Information - SceCli
+Security policy in the Group policy objects has been applied successfully.
+ 03/06/2010 13:42:56: Information - gupdate1c9d5179bba2916
+The description for Event ID '0' in Source 'gupdate1c9d5179bba2916' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service stopped'
+ 03/06/2010 13:42:31: Information - SecurityCenter
+The Security Center service has been stopped.  It was prevented from running by a software group policy.
+ 03/06/2010 13:42:28: Warning - EventSystem
+The COM+ Event System failed to create an instance of the subscriber partition:{41E90F3E-56C1-4633-81C3-6E8BAC8BDD70}!new:{6295DF2D-35EE-11D1-8707-00C04FD93327}.  CoGetObject returned HRESULT 8000401A.
+ 03/06/2010 13:42:20: Information - gupdate1c9d5179bba2916
+The description for Event ID '0' in Source 'gupdate1c9d5179bba2916' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service started'
+ 03/06/2010 13:39:46: Warning - Userenv
+Windows saved user KISC\matthew registry while an application or service was still using the registry during log off. The memory used by the user's registry has not been freed. The registry will be unloaded when it is no longer in use. 
+
+
+This is often caused by services running as a user account, try configuring the services to run in either the LocalService or NetworkService account.
+ 03/06/2010 13:30:26: Information - gusvc
+The description for Event ID '0' in Source 'gusvc' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service stopped'
+ 03/06/2010 13:29:26: Information - gusvc
+The description for Event ID '0' in Source 'gusvc' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service started'
+ 03/06/2010 13:29:19: Error - AutoEnrollment
+Automatic certificate enrollment for local system failed to contact the active directory (0x8007054b).  The specified domain either does not exist or could not be contacted.
+  Enrollment will not be performed.
+ 02/06/2010 09:15:16: Error - Application Hang
+Hanging application firefox.exe, version 1.9.0.3725, hang module hungapp, version 0.0.0.0, hang address 0x00000000.
+ 02/06/2010 09:03:23: Information - SceCli
+Security policy in the Group policy objects has been applied successfully.
+ 02/06/2010 09:03:17: Information - gupdate1c9d5179bba2916
+The description for Event ID '0' in Source 'gupdate1c9d5179bba2916' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service stopped'
+ 02/06/2010 09:02:53: Information - SecurityCenter
+The Security Center service has been stopped.  It was prevented from running by a software group policy.
+ 02/06/2010 09:02:51: Warning - EventSystem
+The COM+ Event System failed to create an instance of the subscriber partition:{41E90F3E-56C1-4633-81C3-6E8BAC8BDD70}!new:{6295DF2D-35EE-11D1-8707-00C04FD93327}.  CoGetObject returned HRESULT 8000401A.
+ 02/06/2010 09:02:42: Information - gupdate1c9d5179bba2916
+The description for Event ID '0' in Source 'gupdate1c9d5179bba2916' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service started'
+ 01/06/2010 15:13:05: Warning - Userenv
+Windows saved user KISC\matthew registry while an application or service was still using the registry during log off. The memory used by the user's registry has not been freed. The registry will be unloaded when it is no longer in use. 
+
+
+This is often caused by services running as a user account, try configuring the services to run in either the LocalService or NetworkService account.
+ 01/06/2010 14:15:46: Information - gusvc
+The description for Event ID '0' in Source 'gusvc' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service stopped'
+ 01/06/2010 14:14:46: Information - gusvc
+The description for Event ID '0' in Source 'gusvc' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service started'
+ 01/06/2010 14:01:14: Information - SceCli
+Security policy in the Group policy objects has been applied successfully.
+ 01/06/2010 14:01:10: Information - gupdate1c9d5179bba2916
+The description for Event ID '0' in Source 'gupdate1c9d5179bba2916' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service stopped'
+ 01/06/2010 14:00:45: Information - SecurityCenter
+The Security Center service has been stopped.  It was prevented from running by a software group policy.
+ 01/06/2010 14:00:42: Warning - EventSystem
+The COM+ Event System failed to create an instance of the subscriber partition:{41E90F3E-56C1-4633-81C3-6E8BAC8BDD70}!new:{6295DF2D-35EE-11D1-8707-00C04FD93327}.  CoGetObject returned HRESULT 8000401A.
+ 01/06/2010 14:00:34: Information - gupdate1c9d5179bba2916
+The description for Event ID '0' in Source 'gupdate1c9d5179bba2916' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service started'
+ 27/05/2010 14:04:10: Warning - Userenv
+Windows saved user KISC\matthew registry while an application or service was still using the registry during log off. The memory used by the user's registry has not been freed. The registry will be unloaded when it is no longer in use. 
+
+
+This is often caused by services running as a user account, try configuring the services to run in either the LocalService or NetworkService account.
+ 27/05/2010 08:20:48: Information - MsiInstaller
+Product: 32 Bit HP CIO Components Installer -- Configuration completed successfully.
+ 27/05/2010 08:20:16: Information - gusvc
+The description for Event ID '0' in Source 'gusvc' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service stopped'
+ 27/05/2010 08:19:16: Information - gusvc
+The description for Event ID '0' in Source 'gusvc' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service started'
+ 26/05/2010 08:16:10: Information - gupdate1c9d5179bba2916
+The description for Event ID '0' in Source 'gupdate1c9d5179bba2916' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service stopped'
+ 26/05/2010 08:16:04: Information - SceCli
+Security policy in the Group policy objects has been applied successfully.
+ 26/05/2010 08:15:45: Information - SecurityCenter
+The Security Center service has been stopped.  It was prevented from running by a software group policy.
+ 26/05/2010 08:15:40: Warning - EventSystem
+The COM+ Event System failed to create an instance of the subscriber partition:{41E90F3E-56C1-4633-81C3-6E8BAC8BDD70}!new:{6295DF2D-35EE-11D1-8707-00C04FD93327}.  CoGetObject returned HRESULT 8000401A.
+ 26/05/2010 08:15:34: Information - gupdate1c9d5179bba2916
+The description for Event ID '0' in Source 'gupdate1c9d5179bba2916' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service started'
+ 25/05/2010 15:14:28: Warning - Userenv
+Windows saved user KISC\matthew registry while an application or service was still using the registry during log off. The memory used by the user's registry has not been freed. The registry will be unloaded when it is no longer in use. 
+
+
+This is often caused by services running as a user account, try configuring the services to run in either the LocalService or NetworkService account.
+ 25/05/2010 14:01:37: Information - gupdate1c9d5179bba2916
+The description for Event ID '0' in Source 'gupdate1c9d5179bba2916' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service stopped'
+ 25/05/2010 14:01:12: Information - SecurityCenter
+The Security Center service has been stopped.  It was prevented from running by a software group policy.
+ 25/05/2010 14:01:07: Warning - EventSystem
+The COM+ Event System failed to create an instance of the subscriber partition:{41E90F3E-56C1-4633-81C3-6E8BAC8BDD70}!new:{6295DF2D-35EE-11D1-8707-00C04FD93327}.  CoGetObject returned HRESULT 8000401A.
+ 25/05/2010 14:01:01: Information - gupdate1c9d5179bba2916
+The description for Event ID '0' in Source 'gupdate1c9d5179bba2916' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service started'
+ 25/05/2010 12:52:27: Information - gusvc
+The description for Event ID '0' in Source 'gusvc' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service stopped'
+ 25/05/2010 12:51:25: Information - gusvc
+The description for Event ID '0' in Source 'gusvc' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service started'
+ 25/05/2010 08:32:52: Information - gupdate1c9d5179bba2916
+The description for Event ID '0' in Source 'gupdate1c9d5179bba2916' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service stopped'
+ 25/05/2010 08:32:48: Information - SceCli
+Security policy in the Group policy objects has been applied successfully.
+ 25/05/2010 08:32:27: Information - SecurityCenter
+The Security Center service has been stopped.  It was prevented from running by a software group policy.
+ 25/05/2010 08:32:23: Warning - EventSystem
+The COM+ Event System failed to create an instance of the subscriber partition:{41E90F3E-56C1-4633-81C3-6E8BAC8BDD70}!new:{6295DF2D-35EE-11D1-8707-00C04FD93327}.  CoGetObject returned HRESULT 8000401A.
+ 25/05/2010 08:32:16: Information - gupdate1c9d5179bba2916
+The description for Event ID '0' in Source 'gupdate1c9d5179bba2916' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service started'
+ 24/05/2010 15:02:45: Warning - Userenv
+Windows saved user KISC\matthew registry while an application or service was still using the registry during log off. The memory used by the user's registry has not been freed. The registry will be unloaded when it is no longer in use. 
+
+
+This is often caused by services running as a user account, try configuring the services to run in either the LocalService or NetworkService account.
+ 24/05/2010 10:00:24: Error - Application Hang
+Fault bucket 1553636449.
+ 24/05/2010 09:58:13: Error - Application Hang
+Hanging application WINWORD.EXE, version 11.0.8313.0, hang module hungapp, version 0.0.0.0, hang address 0x00000000.
+ 24/05/2010 07:57:51: Information - gusvc
+The description for Event ID '0' in Source 'gusvc' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service stopped'
+ 24/05/2010 07:56:20: Information - gusvc
+The description for Event ID '0' in Source 'gusvc' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service started'
+ 24/05/2010 07:51:26: Information - SceCli
+Security policy in the Group policy objects has been applied successfully.
+ 24/05/2010 07:51:23: Information - gupdate1c9d5179bba2916
+The description for Event ID '0' in Source 'gupdate1c9d5179bba2916' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service stopped'
+ 24/05/2010 07:50:58: Information - SecurityCenter
+The Security Center service has been stopped.  It was prevented from running by a software group policy.
+ 24/05/2010 07:50:55: Warning - EventSystem
+The COM+ Event System failed to create an instance of the subscriber partition:{41E90F3E-56C1-4633-81C3-6E8BAC8BDD70}!new:{6295DF2D-35EE-11D1-8707-00C04FD93327}.  CoGetObject returned HRESULT 8000401A.
+ 24/05/2010 07:50:48: Information - gupdate1c9d5179bba2916
+The description for Event ID '0' in Source 'gupdate1c9d5179bba2916' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service started'
+ 20/05/2010 13:31:07: Information - gusvc
+The description for Event ID '0' in Source 'gusvc' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service stopped'
+ 20/05/2010 13:29:44: Information - gusvc
+The description for Event ID '0' in Source 'gusvc' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service started'
+ 20/05/2010 13:19:52: Warning - EventSystem
+The COM+ Event System failed to create an instance of the subscriber partition:{41E90F3E-56C1-4633-81C3-6E8BAC8BDD70}!new:{6295DF2D-35EE-11D1-8707-00C04FD93327}.  CoGetObject returned HRESULT 8000401A.
+ 20/05/2010 13:19:52: Information - Userenv
+Windows unloaded user KISC\matthew registry when it received a notification that no other applications or services were using the profile.
+ 20/05/2010 13:19:38: Error - AutoEnrollment
+Automatic certificate enrollment for local system failed to contact the active directory (0x8007054b).  The specified domain either does not exist or could not be contacted.
+  Enrollment will not be performed.
+ 19/05/2010 15:12:14: Error - .NET Runtime 2.0 Error Reporting
+Faulting application ccmclient.exe, version 1.0.3787.31452, stamp 4bee88dc, faulting module mscorwks.dll, version 2.0.50727.3607, stamp 4add5446, debug? 0, fault address 0x00097d9a.
+ 19/05/2010 13:12:55: Information - gusvc
+The description for Event ID '0' in Source 'gusvc' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service stopped'
+ 19/05/2010 13:12:17: Information - gupdate1c9d5179bba2916
+The description for Event ID '0' in Source 'gupdate1c9d5179bba2916' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service stopped'
+ 19/05/2010 13:12:08: Information - gupdate1c9d5179bba2916
+The description for Event ID '0' in Source 'gupdate1c9d5179bba2916' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service started'
+ 19/05/2010 13:11:56: Information - gusvc
+The description for Event ID '0' in Source 'gusvc' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service started'
+ 19/05/2010 11:28:44: Information - gusvc
+The description for Event ID '0' in Source 'gusvc' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service started'
+ 19/05/2010 11:22:59: Error - Userenv
+Windows cannot obtain the domain controller name for your computer network. (The specified domain either does not exist or could not be contacted. ). Group Policy processing aborted. 
+ 19/05/2010 11:22:25: Error - AutoEnrollment
+Automatic certificate enrollment for local system failed to contact the active directory (0x8007054b).  The specified domain either does not exist or could not be contacted.
+  Enrollment will not be performed.
+ 19/05/2010 11:22:09: Warning - EventSystem
+The COM+ Event System failed to create an instance of the subscriber partition:{41E90F3E-56C1-4633-81C3-6E8BAC8BDD70}!new:{6295DF2D-35EE-11D1-8707-00C04FD93327}.  CoGetObject returned HRESULT 8000401A.
+ 17/05/2010 18:40:56: Warning - EventSystem
+The COM+ Event System failed to create an instance of the subscriber partition:{41E90F3E-56C1-4633-81C3-6E8BAC8BDD70}!new:{6295DF2D-35EE-11D1-8707-00C04FD93327}.  CoGetObject returned HRESULT 8000401A.
+ 17/05/2010 16:00:01: Warning - Userenv
+Windows saved user KISC\matthew registry while an application or service was still using the registry during log off. The memory used by the user's registry has not been freed. The registry will be unloaded when it is no longer in use. 
+
+
+This is often caused by services running as a user account, try configuring the services to run in either the LocalService or NetworkService account.
+ 17/05/2010 13:37:11: Information - gusvc
+The description for Event ID '0' in Source 'gusvc' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service stopped'
+ 17/05/2010 13:36:01: Information - gusvc
+The description for Event ID '0' in Source 'gusvc' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service started'
+ 17/05/2010 13:29:41: Information - gupdate1c9d5179bba2916
+The description for Event ID '0' in Source 'gupdate1c9d5179bba2916' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service stopped'
+ 17/05/2010 13:29:36: Information - SceCli
+Security policy in the Group policy objects has been applied successfully.
+ 17/05/2010 13:29:16: Information - SecurityCenter
+The Security Center service has been stopped.  It was prevented from running by a software group policy.
+ 17/05/2010 13:29:11: Warning - EventSystem
+The COM+ Event System failed to create an instance of the subscriber partition:{41E90F3E-56C1-4633-81C3-6E8BAC8BDD70}!new:{6295DF2D-35EE-11D1-8707-00C04FD93327}.  CoGetObject returned HRESULT 8000401A.
+ 17/05/2010 13:29:06: Information - gupdate1c9d5179bba2916
+The description for Event ID '0' in Source 'gupdate1c9d5179bba2916' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service started'
+ 13/05/2010 15:31:42: Warning - Userenv
+Windows saved user KISC\matthew registry while an application or service was still using the registry during log off. The memory used by the user's registry has not been freed. The registry will be unloaded when it is no longer in use. 
+
+
+This is often caused by services running as a user account, try configuring the services to run in either the LocalService or NetworkService account.
+ 13/05/2010 15:19:20: Information - gupdate1c9d5179bba2916
+The description for Event ID '0' in Source 'gupdate1c9d5179bba2916' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service stopped'
+ 13/05/2010 15:18:54: Information - SecurityCenter
+The Security Center service has been stopped.  It was prevented from running by a software group policy.
+ 13/05/2010 15:18:49: Warning - EventSystem
+The COM+ Event System failed to create an instance of the subscriber partition:{41E90F3E-56C1-4633-81C3-6E8BAC8BDD70}!new:{6295DF2D-35EE-11D1-8707-00C04FD93327}.  CoGetObject returned HRESULT 8000401A.
+ 13/05/2010 15:18:44: Information - gupdate1c9d5179bba2916
+The description for Event ID '0' in Source 'gupdate1c9d5179bba2916' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service started'
+ 13/05/2010 15:16:45: Warning - Userenv
+Windows saved user KISC\matthew registry while an application or service was still using the registry during log off. The memory used by the user's registry has not been freed. The registry will be unloaded when it is no longer in use. 
+
+
+This is often caused by services running as a user account, try configuring the services to run in either the LocalService or NetworkService account.
+ 13/05/2010 10:35:32: Error - Application Hang
+Fault bucket 295850253.
+ 13/05/2010 10:35:15: Error - Application Hang
+Hanging application AcroRd32.exe, version 7.0.8.218, hang module hungapp, version 0.0.0.0, hang address 0x00000000.
+ 13/05/2010 10:18:51: Error - Application Hang
+Fault bucket 1553636449.
+ 13/05/2010 10:18:00: Error - Application Hang
+Fault bucket 1553636449.
+ 13/05/2010 10:16:01: Error - Application Hang
+Hanging application WINWORD.EXE, version 11.0.8313.0, hang module hungapp, version 0.0.0.0, hang address 0x00000000.
+ 13/05/2010 10:15:38: Error - Application Hang
+Hanging application WINWORD.EXE, version 11.0.8313.0, hang module hungapp, version 0.0.0.0, hang address 0x00000000.
+ 13/05/2010 09:32:05: Information - gusvc
+The description for Event ID '0' in Source 'gusvc' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service stopped'
+ 13/05/2010 09:31:05: Information - gusvc
+The description for Event ID '0' in Source 'gusvc' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service started'
+ 13/05/2010 08:17:37: Error - Application Error
+Fault bucket 00509460.
+ 13/05/2010 08:16:37: Error - Application Error
+Faulting application ccmclient.exe, version 0.0.0.0, faulting module mscoree.dll, version 2.0.50727.3053, fault address 0x000025ef.
+ 13/05/2010 08:13:00: Information - DrWatson
+The application, \\ccm\ccm\ccmclient.exe, generated an application error
+The error occurred on 05/13/2010 @ 08:12:59.939
+The exception generated was c0000006 at address 790025EF (mscoree!ND_WI2)
+ 13/05/2010 08:12:33: Error - Application Error
+Faulting application ccmclient.exe, version 0.0.0.0, faulting module mscoree.dll, version 2.0.50727.3053, fault address 0x000025ef.
+ 13/05/2010 08:12:27: Error - Application Error
+Windows cannot access the file \\ccm\ccm\ccmclient.exe for one of the following reasons: 
+there is a problem with the network connection, the disk that the file is stored on, or the storage 
+drivers installed on this computer; or the disk is missing. 
+Windows closed the program ccmclient.exe because of this error.
+
+Program: ccmclient.exe
+File: \\ccm\ccm\ccmclient.exe
+
+The error value is listed in the Additional Data section.
+User Action
+1. Open the file again. 
+This situation might be a temporary problem that corrects itself when the program runs again.
+2. 
+If the file still cannot be accessed and
+	- It is on the network, 
+your network administrator should verify that there is not a problem with the network and that the server can be contacted.
+	- It is on a removable disk, for example, a floppy disk or CD-ROM, verify that the disk is fully inserted into the computer.
+3. Check and repair the file system by running CHKDSK. To run CHKDSK, click Start, click Run, type CMD, and then click OK. At the command prompt, type CHKDSK /F, and then press ENTER.
+4. If the problem persists, restore the file from a backup copy.
+5. Determine whether other files on the same disk can be opened. If not, the disk might be damaged. If it is a hard disk, contact your administrator or computer hardware vendor for 
+further assistance.
+Additional Data
+Error value: C0000120
+Disk type: 4
+ 13/05/2010 08:11:44: Information - gupdate1c9d5179bba2916
+The description for Event ID '0' in Source 'gupdate1c9d5179bba2916' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service stopped'
+ 13/05/2010 08:11:40: Information - SceCli
+Security policy in the Group policy objects has been applied successfully.
+ 13/05/2010 08:11:19: Information - SecurityCenter
+The Security Center service has been stopped.  It was prevented from running by a software group policy.
+ 13/05/2010 08:11:16: Warning - EventSystem
+The COM+ Event System failed to create an instance of the subscriber partition:{41E90F3E-56C1-4633-81C3-6E8BAC8BDD70}!new:{6295DF2D-35EE-11D1-8707-00C04FD93327}.  CoGetObject returned HRESULT 8000401A.
+ 13/05/2010 08:11:08: Information - gupdate1c9d5179bba2916
+The description for Event ID '0' in Source 'gupdate1c9d5179bba2916' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service started'
+ 12/05/2010 15:02:04: Warning - Userenv
+Windows saved user KISC\matthew registry while an application or service was still using the registry during log off. The memory used by the user's registry has not been freed. The registry will be unloaded when it is no longer in use. 
+
+
+This is often caused by services running as a user account, try configuring the services to run in either the LocalService or NetworkService account.
+ 12/05/2010 13:54:04: Error - Application Hang
+Hanging application firefox.exe, version 1.9.0.3725, hang module hungapp, version 0.0.0.0, hang address 0x00000000.
+ 12/05/2010 13:21:18: Information - DrWatson
+The application, C:\Program Files\Mozilla Firefox\firefox.exe, generated an application error
+The error occurred on 05/12/2010 @ 13:21:16.872
+The exception generated was 80000007 at address 00000000 (ntdll!KiFastSystemCallRet)
+ 12/05/2010 08:36:31: Information - gusvc
+The description for Event ID '0' in Source 'gusvc' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service stopped'
+ 12/05/2010 08:35:31: Information - gusvc
+The description for Event ID '0' in Source 'gusvc' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service started'
+ 12/05/2010 08:08:11: Information - SceCli
+Security policy in the Group policy objects has been applied successfully.
+ 12/05/2010 08:08:05: Information - gupdate1c9d5179bba2916
+The description for Event ID '0' in Source 'gupdate1c9d5179bba2916' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service stopped'
+ 12/05/2010 08:07:41: Information - SecurityCenter
+The Security Center service has been stopped.  It was prevented from running by a software group policy.
+ 12/05/2010 08:07:35: Warning - EventSystem
+The COM+ Event System failed to create an instance of the subscriber partition:{41E90F3E-56C1-4633-81C3-6E8BAC8BDD70}!new:{6295DF2D-35EE-11D1-8707-00C04FD93327}.  CoGetObject returned HRESULT 8000401A.
+ 12/05/2010 08:07:29: Information - gupdate1c9d5179bba2916
+The description for Event ID '0' in Source 'gupdate1c9d5179bba2916' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service started'
+ 11/05/2010 17:11:34: Warning - Userenv
+Windows saved user KISC\matthew registry while an application or service was still using the registry during log off. The memory used by the user's registry has not been freed. The registry will be unloaded when it is no longer in use. 
+
+
+This is often caused by services running as a user account, try configuring the services to run in either the LocalService or NetworkService account.
+ 11/05/2010 08:19:08: Information - gusvc
+The description for Event ID '0' in Source 'gusvc' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service stopped'
+ 11/05/2010 08:18:04: Information - gusvc
+The description for Event ID '0' in Source 'gusvc' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service started'
+ 11/05/2010 08:13:58: Information - gupdate1c9d5179bba2916
+The description for Event ID '0' in Source 'gupdate1c9d5179bba2916' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service stopped'
+ 11/05/2010 08:13:58: Information - SceCli
+Security policy in the Group policy objects has been applied successfully.
+ 11/05/2010 08:13:34: Information - SecurityCenter
+The Security Center service has been stopped.  It was prevented from running by a software group policy.
+ 11/05/2010 08:13:32: Warning - EventSystem
+The COM+ Event System failed to create an instance of the subscriber partition:{41E90F3E-56C1-4633-81C3-6E8BAC8BDD70}!new:{6295DF2D-35EE-11D1-8707-00C04FD93327}.  CoGetObject returned HRESULT 8000401A.
+ 11/05/2010 08:13:23: Information - gupdate1c9d5179bba2916
+The description for Event ID '0' in Source 'gupdate1c9d5179bba2916' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service started'
+ 10/05/2010 15:16:49: Warning - Userenv
+Windows saved user KISC\matthew registry while an application or service was still using the registry during log off. The memory used by the user's registry has not been freed. The registry will be unloaded when it is no longer in use. 
+
+
+This is often caused by services running as a user account, try configuring the services to run in either the LocalService or NetworkService account.
+ 10/05/2010 07:57:51: Information - SceCli
+Security policy in the Group policy objects has been applied successfully.
+ 10/05/2010 07:57:50: Information - gupdate1c9d5179bba2916
+The description for Event ID '0' in Source 'gupdate1c9d5179bba2916' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service stopped'
+ 10/05/2010 07:57:26: Information - SecurityCenter
+The Security Center service has been stopped.  It was prevented from running by a software group policy.
+ 10/05/2010 07:57:23: Warning - EventSystem
+The COM+ Event System failed to create an instance of the subscriber partition:{41E90F3E-56C1-4633-81C3-6E8BAC8BDD70}!new:{6295DF2D-35EE-11D1-8707-00C04FD93327}.  CoGetObject returned HRESULT 8000401A.
+ 10/05/2010 07:57:14: Information - gupdate1c9d5179bba2916
+The description for Event ID '0' in Source 'gupdate1c9d5179bba2916' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service started'
+ 07/05/2010 12:46:55: Warning - Userenv
+Windows saved user KISC\matthew registry while an application or service was still using the registry during log off. The memory used by the user's registry has not been freed. The registry will be unloaded when it is no longer in use. 
+
+
+This is often caused by services running as a user account, try configuring the services to run in either the LocalService or NetworkService account.
+ 07/05/2010 10:12:39: Information - gusvc
+The description for Event ID '0' in Source 'gusvc' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service stopped'
+ 07/05/2010 10:11:39: Information - gusvc
+The description for Event ID '0' in Source 'gusvc' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service started'
+ 07/05/2010 09:01:11: Information - SceCli
+Security policy in the Group policy objects has been applied successfully.
+ 07/05/2010 09:01:09: Information - gupdate1c9d5179bba2916
+The description for Event ID '0' in Source 'gupdate1c9d5179bba2916' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service stopped'
+ 07/05/2010 09:00:43: Information - SecurityCenter
+The Security Center service has been stopped.  It was prevented from running by a software group policy.
+ 07/05/2010 09:00:41: Warning - EventSystem
+The COM+ Event System failed to create an instance of the subscriber partition:{41E90F3E-56C1-4633-81C3-6E8BAC8BDD70}!new:{6295DF2D-35EE-11D1-8707-00C04FD93327}.  CoGetObject returned HRESULT 8000401A.
+ 07/05/2010 09:00:34: Information - gupdate1c9d5179bba2916
+The description for Event ID '0' in Source 'gupdate1c9d5179bba2916' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service started'
+ 07/05/2010 08:55:23: Error - AutoEnrollment
+Automatic certificate enrollment for local system failed to contact the active directory (0x8007054b).  The specified domain either does not exist or could not be contacted.
+  Enrollment will not be performed.
+ 06/05/2010 09:33:41: Information - gusvc
+The description for Event ID '0' in Source 'gusvc' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service started'
+ 06/05/2010 09:30:35: Warning - EventSystem
+The COM+ Event System failed to create an instance of the subscriber partition:{41E90F3E-56C1-4633-81C3-6E8BAC8BDD70}!new:{6295DF2D-35EE-11D1-8707-00C04FD93327}.  CoGetObject returned HRESULT 8000401A.
+ 06/05/2010 09:23:20: Information - gupdate1c9d5179bba2916
+The description for Event ID '0' in Source 'gupdate1c9d5179bba2916' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service stopped'
+ 06/05/2010 09:23:17: Information - SceCli
+Security policy in the Group policy objects has been applied successfully.
+ 06/05/2010 09:22:55: Information - SecurityCenter
+The Security Center service has been stopped.  It was prevented from running by a software group policy.
+ 06/05/2010 09:22:53: Warning - EventSystem
+The COM+ Event System failed to create an instance of the subscriber partition:{41E90F3E-56C1-4633-81C3-6E8BAC8BDD70}!new:{6295DF2D-35EE-11D1-8707-00C04FD93327}.  CoGetObject returned HRESULT 8000401A.
+ 06/05/2010 09:22:44: Information - gupdate1c9d5179bba2916
+The description for Event ID '0' in Source 'gupdate1c9d5179bba2916' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service started'
+ 05/05/2010 10:14:09: Warning - Userenv
+Windows saved user KISC\matthew registry while an application or service was still using the registry during log off. The memory used by the user's registry has not been freed. The registry will be unloaded when it is no longer in use. 
+
+
+This is often caused by services running as a user account, try configuring the services to run in either the LocalService or NetworkService account.
+ 05/05/2010 09:26:22: Information - SceCli
+Security policy in the Group policy objects has been applied successfully.
+ 05/05/2010 09:26:20: Information - gupdate1c9d5179bba2916
+The description for Event ID '0' in Source 'gupdate1c9d5179bba2916' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service stopped'
+ 05/05/2010 09:25:55: Information - SecurityCenter
+The Security Center service has been stopped.  It was prevented from running by a software group policy.
+ 05/05/2010 09:25:53: Warning - EventSystem
+The COM+ Event System failed to create an instance of the subscriber partition:{41E90F3E-56C1-4633-81C3-6E8BAC8BDD70}!new:{6295DF2D-35EE-11D1-8707-00C04FD93327}.  CoGetObject returned HRESULT 8000401A.
+ 05/05/2010 09:25:45: Information - gupdate1c9d5179bba2916
+The description for Event ID '0' in Source 'gupdate1c9d5179bba2916' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service started'
+ 04/05/2010 12:56:49: Warning - Userenv
+Windows saved user KISC\matthew registry while an application or service was still using the registry during log off. The memory used by the user's registry has not been freed. The registry will be unloaded when it is no longer in use. 
+
+
+This is often caused by services running as a user account, try configuring the services to run in either the LocalService or NetworkService account.
+ 04/05/2010 12:09:57: Information - gusvc
+The description for Event ID '0' in Source 'gusvc' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service stopped'
+ 04/05/2010 12:08:57: Information - gusvc
+The description for Event ID '0' in Source 'gusvc' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service started'
+ 04/05/2010 09:28:09: Information - gupdate1c9d5179bba2916
+The description for Event ID '0' in Source 'gupdate1c9d5179bba2916' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service stopped'
+ 04/05/2010 09:28:02: Information - SceCli
+Security policy in the Group policy objects has been applied successfully.
+ 04/05/2010 09:27:43: Information - SecurityCenter
+The Security Center service has been stopped.  It was prevented from running by a software group policy.
+ 04/05/2010 09:27:39: Warning - EventSystem
+The COM+ Event System failed to create an instance of the subscriber partition:{41E90F3E-56C1-4633-81C3-6E8BAC8BDD70}!new:{6295DF2D-35EE-11D1-8707-00C04FD93327}.  CoGetObject returned HRESULT 8000401A.
+ 04/05/2010 09:27:33: Information - gupdate1c9d5179bba2916
+The description for Event ID '0' in Source 'gupdate1c9d5179bba2916' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service started'
+ 03/05/2010 14:48:13: Warning - Userenv
+Windows saved user KISC\matthew registry while an application or service was still using the registry during log off. The memory used by the user's registry has not been freed. The registry will be unloaded when it is no longer in use. 
+
+
+This is often caused by services running as a user account, try configuring the services to run in either the LocalService or NetworkService account.
+ 03/05/2010 12:49:46: Error - Application Hang
+Hanging application WINWORD.EXE, version 11.0.8313.0, hang module hungapp, version 0.0.0.0, hang address 0x00000000.
+ 03/05/2010 12:04:04: Information - gusvc
+The description for Event ID '0' in Source 'gusvc' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service stopped'
+ 03/05/2010 12:03:14: Error - AutoEnrollment
+Automatic certificate enrollment for local system failed to contact the active directory (0x8007054b).  The specified domain either does not exist or could not be contacted.
+  Enrollment will not be performed.
+ 03/05/2010 12:03:13: Information - gusvc
+The description for Event ID '0' in Source 'gusvc' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service started'
+ 29/04/2010 17:00:11: Error - AutoEnrollment
+Automatic certificate enrollment for local system failed to contact the active directory (0x8007054b).  The specified domain either does not exist or could not be contacted.
+  Enrollment will not be performed.
+ 29/04/2010 09:39:26: Information - gusvc
+The description for Event ID '0' in Source 'gusvc' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service stopped'
+ 29/04/2010 09:38:25: Information - gusvc
+The description for Event ID '0' in Source 'gusvc' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service started'
+ 29/04/2010 08:13:28: Information - gupdate1c9d5179bba2916
+The description for Event ID '0' in Source 'gupdate1c9d5179bba2916' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service stopped'
+ 29/04/2010 08:13:22: Information - SceCli
+Security policy in the Group policy objects has been applied successfully.
+ 29/04/2010 08:13:02: Information - SecurityCenter
+The Security Center service has been stopped.  It was prevented from running by a software group policy.
+ 29/04/2010 08:12:57: Warning - EventSystem
+The COM+ Event System failed to create an instance of the subscriber partition:{41E90F3E-56C1-4633-81C3-6E8BAC8BDD70}!new:{6295DF2D-35EE-11D1-8707-00C04FD93327}.  CoGetObject returned HRESULT 8000401A.
+ 29/04/2010 08:12:52: Information - gupdate1c9d5179bba2916
+The description for Event ID '0' in Source 'gupdate1c9d5179bba2916' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service started'
+ 28/04/2010 16:20:58: Warning - Userenv
+Windows saved user KISC\matthew registry while an application or service was still using the registry during log off. The memory used by the user's registry has not been freed. The registry will be unloaded when it is no longer in use. 
+
+
+This is often caused by services running as a user account, try configuring the services to run in either the LocalService or NetworkService account.
+ 28/04/2010 16:19:25: Error - Application Hang
+Hanging application WINWORD.EXE, version 11.0.8313.0, hang module hungapp, version 0.0.0.0, hang address 0x00000000.
+ 28/04/2010 11:37:00: Information - MsiInstaller
+Product: 32 Bit HP CIO Components Installer -- Configuration completed successfully.
+ 28/04/2010 11:29:41: Information - gupdate1c9d5179bba2916
+The description for Event ID '0' in Source 'gupdate1c9d5179bba2916' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service stopped'
+ 28/04/2010 11:29:35: Information - SceCli
+Security policy in the Group policy objects has been applied successfully.
+ 28/04/2010 11:29:16: Information - SecurityCenter
+The Security Center service has been stopped.  It was prevented from running by a software group policy.
+ 28/04/2010 11:29:12: Warning - EventSystem
+The COM+ Event System failed to create an instance of the subscriber partition:{41E90F3E-56C1-4633-81C3-6E8BAC8BDD70}!new:{6295DF2D-35EE-11D1-8707-00C04FD93327}.  CoGetObject returned HRESULT 8000401A.
+ 28/04/2010 11:29:06: Information - gupdate1c9d5179bba2916
+The description for Event ID '0' in Source 'gupdate1c9d5179bba2916' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service started'
+ 28/04/2010 11:27:03: Warning - Userenv
+Windows saved user KISC\matthew registry while an application or service was still using the registry during log off. The memory used by the user's registry has not been freed. The registry will be unloaded when it is no longer in use. 
+
+
+This is often caused by services running as a user account, try configuring the services to run in either the LocalService or NetworkService account.
+ 28/04/2010 11:05:25: Information - MsiInstaller
+Product: 32 Bit HP CIO Components Installer -- Configuration completed successfully.
+ 28/04/2010 09:15:48: Information - gusvc
+The description for Event ID '0' in Source 'gusvc' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service stopped'
+ 28/04/2010 09:14:48: Information - gusvc
+The description for Event ID '0' in Source 'gusvc' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service started'
+ 28/04/2010 08:40:58: Information - DrWatson
+The application, \\KS\RequiredSoftware\Mozilla Thunderbird\thunderbird.exe, generated an application error
+The error occurred on 04/28/2010 @ 08:40:57.415
+The exception generated was c0000006 at address 009E89C2 (<nosymbols>)
+ 28/04/2010 08:40:03: Error - Application Error
+Faulting application thunderbird.exe, version 1.8.20100.22820, faulting module thunderbird.exe, version 1.8.20100.22820, fault address 0x005e89c2.
+ 28/04/2010 08:38:43: Error - Application Error
+Windows cannot access the file \\ks\RequiredSoftware\Mozilla Thunderbird\thunderbird.exe for one of the following reasons: 
+there is a problem with the network connection, the disk that the file is stored on, or the storage 
+drivers installed on this computer; or the disk is missing. 
+Windows closed the program thunderbird.exe because of this error.
+
+Program: thunderbird.exe
+File: \\ks\RequiredSoftware\Mozilla Thunderbird\thunderbird.exe
+
+The error value is listed in the Additional Data section.
+User Action
+1. Open the file again. 
+This situation might be a temporary problem that corrects itself when the program runs again.
+2. 
+If the file still cannot be accessed and
+	- It is on the network, 
+your network administrator should verify that there is not a problem with the network and that the server can be contacted.
+	- It is on a removable disk, for example, a floppy disk or CD-ROM, verify that the disk is fully inserted into the computer.
+3. Check and repair the file system by running CHKDSK. To run CHKDSK, click Start, click Run, type CMD, and then click OK. At the command prompt, type CHKDSK /F, and then press ENTER.
+4. If the problem persists, restore the file from a backup copy.
+5. Determine whether other files on the same disk can be opened. If not, the disk might be damaged. If it is a hard disk, contact your administrator or computer hardware vendor for 
+further assistance.
+Additional Data
+Error value: C000020C
+Disk type: 4
+ 28/04/2010 08:38:01: Error - AutoEnrollment
+Automatic certificate enrollment for local system failed to contact the active directory (0x8007054b).  The specified domain either does not exist or could not be contacted.
+  Enrollment will not be performed.
+ 27/04/2010 13:53:46: Information - gupdate1c9d5179bba2916
+The description for Event ID '0' in Source 'gupdate1c9d5179bba2916' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service stopped'
+ 27/04/2010 13:53:21: Information - SecurityCenter
+The Security Center service has been stopped.  It was prevented from running by a software group policy.
+ 27/04/2010 13:53:18: Warning - EventSystem
+The COM+ Event System failed to create an instance of the subscriber partition:{41E90F3E-56C1-4633-81C3-6E8BAC8BDD70}!new:{6295DF2D-35EE-11D1-8707-00C04FD93327}.  CoGetObject returned HRESULT 8000401A.
+ 27/04/2010 13:53:10: Information - gupdate1c9d5179bba2916
+The description for Event ID '0' in Source 'gupdate1c9d5179bba2916' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service started'
+ 27/04/2010 13:50:50: Warning - Userenv
+Windows saved user KISC\matthew registry while an application or service was still using the registry during log off. The memory used by the user's registry has not been freed. The registry will be unloaded when it is no longer in use. 
+
+
+This is often caused by services running as a user account, try configuring the services to run in either the LocalService or NetworkService account.
+ 27/04/2010 13:21:03: Error - Application Error
+Faulting application thunderbird.exe, version 0.0.0.0, faulting module thunderbird.exe, version 0.0.0.0, fault address 0x0049c0e3.
+ 27/04/2010 13:20:49: Error - Application Error
+Windows cannot access the file \\ks\RequiredSoftware\Mozilla Thunderbird\thunderbird.exe for one of the following reasons: 
+there is a problem with the network connection, the disk that the file is stored on, or the storage 
+drivers installed on this computer; or the disk is missing. 
+Windows closed the program thunderbird.exe because of this error.
+
+Program: thunderbird.exe
+File: \\ks\RequiredSoftware\Mozilla Thunderbird\thunderbird.exe
+
+The error value is listed in the Additional Data section.
+User Action
+1. Open the file again. 
+This situation might be a temporary problem that corrects itself when the program runs again.
+2. 
+If the file still cannot be accessed and
+	- It is on the network, 
+your network administrator should verify that there is not a problem with the network and that the server can be contacted.
+	- It is on a removable disk, for example, a floppy disk or CD-ROM, verify that the disk is fully inserted into the computer.
+3. Check and repair the file system by running CHKDSK. To run CHKDSK, click Start, click Run, type CMD, and then click OK. At the command prompt, type CHKDSK /F, and then press ENTER.
+4. If the problem persists, restore the file from a backup copy.
+5. Determine whether other files on the same disk can be opened. If not, the disk might be damaged. If it is a hard disk, contact your administrator or computer hardware vendor for 
+further assistance.
+Additional Data
+Error value: C000020C
+Disk type: 1
+ 27/04/2010 11:29:58: Information - SceCli
+Security policy in the Group policy objects has been applied successfully.
+ 27/04/2010 11:29:47: Information - gupdate1c9d5179bba2916
+The description for Event ID '0' in Source 'gupdate1c9d5179bba2916' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service stopped'
+ 27/04/2010 11:29:21: Information - SecurityCenter
+The Security Center service has been stopped.  It was prevented from running by a software group policy.
+ 27/04/2010 11:29:18: Warning - EventSystem
+The COM+ Event System failed to create an instance of the subscriber partition:{41E90F3E-56C1-4633-81C3-6E8BAC8BDD70}!new:{6295DF2D-35EE-11D1-8707-00C04FD93327}.  CoGetObject returned HRESULT 8000401A.
+ 27/04/2010 11:29:11: Information - gupdate1c9d5179bba2916
+The description for Event ID '0' in Source 'gupdate1c9d5179bba2916' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service started'
+ 27/04/2010 11:27:04: Warning - Userenv
+Windows saved user KISC\matthew registry while an application or service was still using the registry during log off. The memory used by the user's registry has not been freed. The registry will be unloaded when it is no longer in use. 
+
+
+This is often caused by services running as a user account, try configuring the services to run in either the LocalService or NetworkService account.

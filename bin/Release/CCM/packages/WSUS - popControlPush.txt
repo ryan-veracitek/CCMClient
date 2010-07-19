@@ -1,0 +1,8 @@
+<PACKAGE>
+CREATED BY: technician-lt
+title=WSUS
+message=Verifying Updates
+file=\\ccm\ccm\packages\supportFiles\WSUS.reg
+notice=
+arguments=
+</PACKAGE>

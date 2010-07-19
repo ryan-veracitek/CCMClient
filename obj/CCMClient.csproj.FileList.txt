@@ -1,0 +1,14 @@
+\\ks\ccm\CCMClient.exe.config
+\\ks\ccm\CCMClient.exe
+..\..\..\bin\Release\CCMClient.exe.config
+bin\Release\CCMClient.exe.config
+bin\Release\CCMClient.exe
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\CCMClient.DDE.DDEListener.resources
+obj\Release\CCMClient.Form1.resources
+obj\Release\CCMClient.message.resources
+obj\Release\CCMClient.NotifyIconEx.resources
+obj\Release\CCMClient.csproj.GenerateResource.Cache
+obj\Release\CCMClient.exe
+obj\Release\CCMClient.connections.resources
+obj\Release\CCMClient.Properties.Resources.resources

@@ -1,0 +1,986 @@
+ 15/06/2010 11:55:58: Information - W32Time
+The time service is now synchronizing the system time with the time
+source ks.kisc.edu.np (ntp.d|10.10.1.147:123->10.10.1.1:123).
+ 15/06/2010 11:40:56: Error - W32Time
+The time provider NtpClient is configured to acquire time from one or more
+time sources, however none of the sources are currently accessible. 
+No attempt to contact a source will be made for 14 minutes.
+NtpClient has no source of accurate time. 
+ 15/06/2010 11:40:56: Warning - W32Time
+The time provider NtpClient was unable to find a domain controller to use as a time
+source. NtpClient will try again in 15 minutes.
+ 15/06/2010 11:40:55: Error - W32Time
+The time provider NtpClient is configured to acquire time from one or more
+time sources, however none of the sources are currently accessible. 
+No attempt to contact a source will be made for 14 minutes.
+NtpClient has no source of accurate time. 
+ 15/06/2010 11:40:55: Warning - W32Time
+The time provider NtpClient was unable to find a domain controller to use as a time
+source. NtpClient will try again in 15 minutes.
+ 15/06/2010 11:40:53: Information - Service Control Manager
+The Windows Image Acquisition (WIA) service entered the running state.
+ 15/06/2010 11:40:50: Information - Tcpip
+The system detected that network adapter INPROCOMM...LAN Card - Packet Scheduler Miniport was connected to the network,
+and has initiated normal operation over the network adapter.
+ 15/06/2010 11:40:45: Warning - DnsApi
+The system failed to update and remove host (A) resource records (RRs)
+for network adapter
+with settings:
+
+
+  Adapter Name : {18AC0A7B-B3CD-4920-BDEF-3A13D3C881A1}
+
+  Host Name : matthew
+
+  Primary Domain Suffix : kisc.edu.np
+
+  DNS server list :
+
+    	10.10.1.1, 10.10.1.2
+
+  Sent update to server : 10.1.1.1
+
+  IP Address(es) :
+
+    10.10.1.147
+
+
+The reason the update request failed was because of a system problem.
+For specific error code, see the record data displayed below.
+ 15/06/2010 11:40:42: Information - Tcpip
+The system detected that network adapter INPROCOMM...LAN Card - Packet Scheduler Miniport was connected to the network,
+and has initiated normal operation over the network adapter.
+ 15/06/2010 11:40:39: Warning - Dhcp
+Your computer was not able to renew its address from the network (from the
+DHCP Server) for the Network Card with network address 0014A411393A.  The following
+error occurred: 
+%The operation was canceled by the user..
+Your computer will continue to try and obtain an address on its own from
+the network address (DHCP) server.
+ 15/06/2010 11:40:36: Information - Service Control Manager
+The Net Driver HPZ12 service entered the stopped state.
+ 15/06/2010 11:40:35: Information - Service Control Manager
+The Pml Driver HPZ12 service entered the stopped state.
+ 15/06/2010 09:57:25: Warning - Print
+Printer Driver Canon iP3500 series for Windows NT x86 Version-3 was added or updated. Files:- CNMDR8V.DLL, CNMUI8V.DLL, CNMCP8V.DLL, CNMMH8V.CHM, CNMLR8V.DLL, CNMCB8V.DLL, CNMD58V.DLL, CNMUR8V.DLL, CNMSR8V.DLL, CNMIN8V.INI, CNMPI8V.DLL, CNMSM8V.DLL, CNMSS8V.SMR, CNMSD8V.DLL, CNMSQ8V.DLL, CNMSH8V.CHM, CNMIH8V.CHM, CNMUB8V.DLL, CNMOP8V.DLL, CNMSB8V.DLL, CNB_3190.TBL, CNMP08V.DAT, CNMP18V.DAT, CNMP28V.DAT, CNMFU8V.DLL, CNMLH8V.DLL, CNMPV8V.DLL, CNMSE8V.EXE, CNMBU8V.DLL, CNMBM8V.DLL, CNMBS8V.DLL, CNMVS8V.DLL, CNMW38V.DLL, CNMLR8V0.411, CNMUR8V0.411, CNMSR8V0.411, CNMMH8V0.411, CNMSH8V0.411, CNMIH8V0.411, CNMLR8V0.40c, CNMUR8V0.40c, CNMSR8V0.40c, CNMMH8V0.40c, CNMSH8V0.40c, CNMIH8V0.40c, CNMLR8V0.407, CNMUR8V0.407, CNMSR8V0.407, CNMMH8V0.407, CNMSH8V0.407, CNMIH8V0.407, CNMLR8V0.410, CNMUR8V0.410, CNMSR8V0.410, CNMMH8V0.410, CNMSH8V0.410, CNMIH8V0.410, CNMLR8V0.c0a, CNMUR8V0.c0a, CNMSR8V0.c0a, CNMMH8V0.c0a, CNMSH8V0.c0a, CNMIH8V0.c0a, CNMLR8V0.816, CNMUR8V0.816, CNMSR8V0.816, CNMMH8V0.816, CNMSH8V0.816, CNMIH8V0.816, CNMLR8V0.406, CNMUR8V0.406, CNMSR8V0.406, CNMMH8V0.406, CNMSH8V0.406, CNMIH8V0.406, CNMLR8V0.414, CNMUR8V0.414, CNMSR8V0.414, CNMMH8V0.414, CNMSH8V0.414, CNMIH8V0.414, CNMLR8V0.41D, CNMUR8V0.41D, CNMSR8V0.41D, CNMMH8V0.41D, CNMSH8V0.41D, CNMIH8V0.41D, CNMLR8V0.40b, CNMUR8V0.40b, CNMSR8V0.40b, CNMMH8V0.40b, CNMSH8V0.40b, CNMIH8V0.40b, CNMLR8V0.408, CNMUR8V0.408, CNMSR8V0.408, CNMMH8V0.408, CNMSH8V0.408, CNMIH8V0.408, CNMLR8V0.415, CNMUR8V0.415, CNMSR8V0.415, CNMMH8V0.415, CNMSH8V0.415, CNMIH8V0.415, CNMLR8V0.405, CNMUR8V0.405, CNMSR8V0.405, CNMMH8V0.405, CNMSH8V0.405, CNMIH8V0.405, CNMLR8V0.419, CNMUR8V0.419, CNMSR8V0.419, CNMMH8V0.419, CNMSH8V0.419, CNMIH8V0.419, CNMLR8V0.40e, CNMUR8V0.40e, CNMSR8V0.40e, CNMMH8V0.40e, CNMSH8V0.40e, CNMIH8V0.40e, CNMLR8V0.413, CNMUR8V0.413, CNMSR8V0.413, CNMMH8V0.413, CNMSH8V0.413, CNMIH8V0.413, CNMLR8V0.41F, CNMUR8V0.41F, CNMSR8V0.41F, CNMMH8V0.41F, CNMSH8V0.41F, CNMIH8V0.41F, CNMLR8V0.401, CNMUR8V0.401, CNMSR8V0.401, CNMMH8V0.401, CNMSH8V0.401, CNMIH8V0.401, CNMLR8V0.804, CNMUR8V0.804, CNMSR8V0.804, CNMMH8V0.804, CNMSH8V0.804, CNMIH8V0.804, CNMLR8V0.404, CNMUR8V0.404, CNMSR8V0.404, CNMMH8V0.404, CNMSH8V0.404, CNMIH8V0.404, CNMLR8V0.412, CNMUR8V0.412, CNMSR8V0.412, CNMMH8V0.412, CNMSH8V0.412, CNMIH8V0.412, CNMLR8V0.41E, CNMUR8V0.41E, CNMSR8V0.41E, CNMMH8V0.41E, CNMSH8V0.41E, CNMIH8V0.41E, CNMLR8V0.421, CNMUR8V0.421, CNMSR8V0.421, CNMMH8V0.421, CNMSH8V0.421, CNMIH8V0.421.
+ 15/06/2010 09:57:23: Warning - Print
+Printer Driver Canon iP3500 series for Windows NT x86 Version-3 was added or updated. Files:- CNMDR8V.DLL, CNMUI8V.DLL, CNMCP8V.DLL, CNMMH8V.CHM, CNMLR8V.DLL, CNMCB8V.DLL, CNMD58V.DLL, CNMUR8V.DLL, CNMSR8V.DLL, CNMIN8V.INI, CNMPI8V.DLL, CNMSM8V.DLL, CNMSS8V.SMR, CNMSD8V.DLL, CNMSQ8V.DLL, CNMSH8V.CHM, CNMIH8V.CHM, CNMUB8V.DLL, CNMOP8V.DLL, CNMSB8V.DLL, CNB_3190.TBL, CNMP08V.DAT, CNMP18V.DAT, CNMP28V.DAT, CNMFU8V.DLL, CNMLH8V.DLL, CNMPV8V.DLL, CNMSE8V.EXE, CNMBU8V.DLL, CNMBM8V.DLL, CNMBS8V.DLL, CNMVS8V.DLL, CNMW38V.DLL, CNMLR8V0.411, CNMUR8V0.411, CNMSR8V0.411, CNMMH8V0.411, CNMSH8V0.411, CNMIH8V0.411, CNMLR8V0.40c, CNMUR8V0.40c, CNMSR8V0.40c, CNMMH8V0.40c, CNMSH8V0.40c, CNMIH8V0.40c, CNMLR8V0.407, CNMUR8V0.407, CNMSR8V0.407, CNMMH8V0.407, CNMSH8V0.407, CNMIH8V0.407, CNMLR8V0.410, CNMUR8V0.410, CNMSR8V0.410, CNMMH8V0.410, CNMSH8V0.410, CNMIH8V0.410, CNMLR8V0.c0a, CNMUR8V0.c0a, CNMSR8V0.c0a, CNMMH8V0.c0a, CNMSH8V0.c0a, CNMIH8V0.c0a, CNMLR8V0.816, CNMUR8V0.816, CNMSR8V0.816, CNMMH8V0.816, CNMSH8V0.816, CNMIH8V0.816, CNMLR8V0.406, CNMUR8V0.406, CNMSR8V0.406, CNMMH8V0.406, CNMSH8V0.406, CNMIH8V0.406, CNMLR8V0.414, CNMUR8V0.414, CNMSR8V0.414, CNMMH8V0.414, CNMSH8V0.414, CNMIH8V0.414, CNMLR8V0.41D, CNMUR8V0.41D, CNMSR8V0.41D, CNMMH8V0.41D, CNMSH8V0.41D, CNMIH8V0.41D, CNMLR8V0.40b, CNMUR8V0.40b, CNMSR8V0.40b, CNMMH8V0.40b, CNMSH8V0.40b, CNMIH8V0.40b, CNMLR8V0.408, CNMUR8V0.408, CNMSR8V0.408, CNMMH8V0.408, CNMSH8V0.408, CNMIH8V0.408, CNMLR8V0.415, CNMUR8V0.415, CNMSR8V0.415, CNMMH8V0.415, CNMSH8V0.415, CNMIH8V0.415, CNMLR8V0.405, CNMUR8V0.405, CNMSR8V0.405, CNMMH8V0.405, CNMSH8V0.405, CNMIH8V0.405, CNMLR8V0.419, CNMUR8V0.419, CNMSR8V0.419, CNMMH8V0.419, CNMSH8V0.419, CNMIH8V0.419, CNMLR8V0.40e, CNMUR8V0.40e, CNMSR8V0.40e, CNMMH8V0.40e, CNMSH8V0.40e, CNMIH8V0.40e, CNMLR8V0.413, CNMUR8V0.413, CNMSR8V0.413, CNMMH8V0.413, CNMSH8V0.413, CNMIH8V0.413, CNMLR8V0.41F, CNMUR8V0.41F, CNMSR8V0.41F, CNMMH8V0.41F, CNMSH8V0.41F, CNMIH8V0.41F, CNMLR8V0.401, CNMUR8V0.401, CNMSR8V0.401, CNMMH8V0.401, CNMSH8V0.401, CNMIH8V0.401, CNMLR8V0.804, CNMUR8V0.804, CNMSR8V0.804, CNMMH8V0.804, CNMSH8V0.804, CNMIH8V0.804, CNMLR8V0.404, CNMUR8V0.404, CNMSR8V0.404, CNMMH8V0.404, CNMSH8V0.404, CNMIH8V0.404, CNMLR8V0.412, CNMUR8V0.412, CNMSR8V0.412, CNMMH8V0.412, CNMSH8V0.412, CNMIH8V0.412, CNMLR8V0.41E, CNMUR8V0.41E, CNMSR8V0.41E, CNMMH8V0.41E, CNMSH8V0.41E, CNMIH8V0.41E, CNMLR8V0.421, CNMUR8V0.421, CNMSR8V0.421, CNMMH8V0.421, CNMSH8V0.421, CNMIH8V0.421.
+ 15/06/2010 09:56:44: Information - Service Control Manager
+The IMAPI CD-Burning COM Service service entered the stopped state.
+ 15/06/2010 09:56:35: Information - Service Control Manager
+The IMAPI CD-Burning COM Service service entered the running state.
+ 15/06/2010 09:56:35: Information - Service Control Manager
+The IMAPI CD-Burning COM Service service was successfully sent a start control.
+ 15/06/2010 09:54:11: Information - Service Control Manager
+The Remote Access Connection Manager service entered the running state.
+ 15/06/2010 09:54:11: Information - Service Control Manager
+The Remote Access Connection Manager service was successfully sent a start control.
+ 15/06/2010 09:54:11: Information - Service Control Manager
+The Telephony service entered the running state.
+ 15/06/2010 09:54:11: Information - Service Control Manager
+The Google Update Service (gupdate1c9d5179bba2916) service entered the stopped state.
+ 15/06/2010 09:54:11: Information - Service Control Manager
+The Application Layer Gateway Service service entered the running state.
+ 15/06/2010 09:54:11: Information - Service Control Manager
+The Application Layer Gateway Service service was successfully sent a start control.
+ 15/06/2010 09:54:11: Information - Service Control Manager
+The Terminal Services service entered the running state.
+ 15/06/2010 09:54:11: Information - Service Control Manager
+The Terminal Services service was successfully sent a start control.
+ 15/06/2010 09:54:11: Information - Service Control Manager
+The Network Location Awareness (NLA) service entered the running state.
+ 15/06/2010 09:54:10: Information - Service Control Manager
+The Network Location Awareness (NLA) service was successfully sent a start control.
+ 15/06/2010 09:53:51: Information - W32Time
+The time service is now synchronizing the system time with the time
+source k2.kisc.edu.np (ntp.d|10.10.1.147:123->10.10.1.2:123).
+ 15/06/2010 09:53:34: Information - WMPNetworkSvc
+Service 'WMPNetworkSvc' started.
+ 15/06/2010 09:53:00: Information - Tcpip
+The system detected that network adapter INPROCOMM...LAN Card - Packet Scheduler Miniport was connected to the network,
+and has initiated normal operation over the network adapter.
+ 15/06/2010 09:52:50: Information - EventLog
+The Event log service was started.
+ 15/06/2010 09:52:50: Information - EventLog
+Microsoft (R) Windows (R) 5.01. 2600 Service Pack 3 Uniprocessor Free.
+ 15/06/2010 09:51:29: Information - EventLog
+The Event log service was stopped.
+ 15/06/2010 09:51:22: Information - Windows Update Agent
+Restart Required: To complete the installation of the following updates, the computer must be restarted. Until this computer has been restarted, Windows cannot search for or download new updates: 
+- Security Update for Microsoft Office InfoPath 2003 (KB980923)
+- Security Update for Microsoft Office PowerPoint 2003 (KB982157)
+- Cumulative Security Update for Internet Explorer 7 for Windows XP (KB982381)
+- Microsoft .NET Framework 3.5 SP1 and .NET Framework 2.0 SP2 Security Update for Windows 2000, Windows Server 2003, and Windows XP x86 (KB979909)
+- Microsoft .NET Framework 3.5 SP1 Update for Windows Server 2003 and Windows XP x86 (KB982168)
+- Security Update for Windows XP (KB975562)
+- Security Update for Windows XP (KB979482)
+- Security Update for Windows Media Format Runtime 9, 9.5 & 11 for Windows XP SP3 (KB978695)
+- Windows Malicious Software Removal Tool - June 2010 (KB890830)
+- Security Update for Windows XP (KB979559)
+- Update for Microsoft Office Outlook 2003 Junk Email Filter (KB983503)
+- Security Update for Microsoft Office Word 2003 (KB982134)
+- Security Update for Microsoft Office Publisher 2003 (KB982122)
+- Microsoft .NET Framework 1.1 SP1 Security Update for Wind
+ 15/06/2010 09:51:16: Information - Windows Update Agent
+Installation Successful: Windows successfully installed the following update: Security Update for Windows XP (KB980218)
+ 15/06/2010 09:51:15: Information - NtServicePack
+Windows XP Hotfix KB980218 was installed.
+ 15/06/2010 09:50:00: Information - Windows Update Agent
+Installation Successful: Windows successfully installed the following update: Security Update for Microsoft Office 2003 (KB982311)
+ 15/06/2010 09:48:03: Information - Windows Update Agent
+Installation Successful: Windows successfully installed the following update: Security Update for Microsoft Office Excel 2003 (KB982133)
+ 15/06/2010 09:47:58: Information - Service Control Manager
+The Machine Debug Manager service was successfully sent a start control.
+ 15/06/2010 09:47:58: Information - Service Control Manager
+The Machine Debug Manager service entered the running state.
+ 15/06/2010 09:47:33: Warning - Print
+Printer Driver Microsoft Office Document Image Writer Driver for Windows NT x86 Version-3 was added or updated. Files:- mdigraph.dll, mdiui.dll, mdiui.dll.
+ 15/06/2010 09:47:30: Warning - Print
+Printer Microsoft Office Document Image Writer was deleted.
+ 15/06/2010 09:47:27: Warning - Print
+Printer Microsoft Office Document Image Writer is pending deletion.
+ 15/06/2010 09:46:44: Information - Service Control Manager
+The Machine Debug Manager service entered the stopped state.
+ 15/06/2010 09:46:43: Information - Service Control Manager
+The Machine Debug Manager service was successfully sent a stop control.
+ 15/06/2010 09:45:16: Information - Service Control Manager
+The .NET Runtime Optimization Service v2.0.50727_X86 service entered the stopped state.
+ 15/06/2010 09:42:07: Information - Windows Update Agent
+Installation Successful: Windows successfully installed the following update: Cumulative Security Update for ActiveX Killbits for Windows XP (KB980195)
+ 15/06/2010 09:42:06: Information - NtServicePack
+Windows XP Hotfix KB980195 was installed.
+ 15/06/2010 09:40:56: Information - Service Control Manager
+The Microsoft .NET Framework v1.1.4322 Update service was successfully sent a stop control.
+ 15/06/2010 09:40:56: Information - Service Control Manager
+The Microsoft .NET Framework v1.1.4322 Update service entered the stopped state.
+ 15/06/2010 09:38:03: Information - Windows Update Agent
+Installation Successful: Windows successfully installed the following update: Microsoft .NET Framework 1.1 SP1 Security Update for Windows 2000 and Windows XP (KB979906)
+ 15/06/2010 09:38:03: Information - Service Control Manager
+The Microsoft .NET Framework v1.1.4322 Update service entered the running state.
+ 15/06/2010 09:38:02: Information - Service Control Manager
+The Microsoft .NET Framework v1.1.4322 Update service was successfully sent a start control.
+ 15/06/2010 09:35:17: Information - Windows Update Agent
+Installation Successful: Windows successfully installed the following update: Security Update for Microsoft Office Publisher 2003 (KB982122)
+ 15/06/2010 09:34:36: Information - Windows Update Agent
+Installation Successful: Windows successfully installed the following update: Security Update for Microsoft Office Word 2003 (KB982134)
+ 15/06/2010 09:32:59: Information - Windows Update Agent
+Installation Successful: Windows successfully installed the following update: Update for Microsoft Office Outlook 2003 Junk Email Filter (KB983503)
+ 15/06/2010 09:32:07: Information - Service Control Manager
+The Office Source Engine service was successfully sent a start control.
+ 15/06/2010 09:32:07: Information - Service Control Manager
+The Office Source Engine service entered the running state.
+ 15/06/2010 09:30:12: Information - Service Control Manager
+The Windows Installer service entered the running state.
+ 15/06/2010 09:30:12: Information - Service Control Manager
+The Windows Installer service was successfully sent a start control.
+ 15/06/2010 09:29:24: Information - Windows Update Agent
+Installation Successful: Windows successfully installed the following update: Security Update for Windows XP (KB979559)
+ 15/06/2010 09:29:23: Information - NtServicePack
+Windows XP Hotfix KB979559 was installed.
+ 15/06/2010 09:27:45: Information - Windows Update Agent
+Installation Successful: Windows successfully installed the following update: Windows Malicious Software Removal Tool - June 2010 (KB890830)
+ 15/06/2010 09:27:31: Information - Service Control Manager
+The Windows Installer service entered the stopped state.
+ 15/06/2010 09:19:44: Information - Windows Update Agent
+Installation Successful: Windows successfully installed the following update: Security Update for Windows Media Format Runtime 9, 9.5 & 11 for Windows XP SP3 (KB978695)
+ 15/06/2010 09:19:43: Information - WindowsMedia
+Windows Media Player Hotfix KB978695_WM9 was installed.
+ 15/06/2010 09:19:28: Information - Windows Update Agent
+Installation Successful: Windows successfully installed the following update: Security Update for Windows XP (KB979482)
+ 15/06/2010 09:19:27: Information - NtServicePack
+Windows XP Hotfix KB979482 was installed.
+ 15/06/2010 09:19:12: Information - Windows Update Agent
+Installation Successful: Windows successfully installed the following update: Security Update for Windows XP (KB975562)
+ 15/06/2010 09:19:11: Information - NtServicePack
+Windows XP Hotfix KB975562 was installed.
+ 15/06/2010 09:17:34: Information - Windows Update Agent
+Installation Successful: Windows successfully installed the following update: Microsoft .NET Framework 3.5 SP1 Update for Windows Server 2003 and Windows XP x86 (KB982168)
+ 15/06/2010 09:17:17: Information - HTTP
+Reservation for namespace identified by URL prefix http://+:80/Temporary_Listen_Addresses/ was successfully added.
+ 15/06/2010 09:17:17: Information - HTTP
+Reservation for namespace identified by URL prefix http://+:80/Temporary_Listen_Addresses/ was successfully deleted.
+ 15/06/2010 09:15:43: Information - Service Control Manager
+The .NET Runtime Optimization Service v2.0.50727_X86 service entered the running state.
+ 15/06/2010 09:15:43: Information - Service Control Manager
+The .NET Runtime Optimization Service v2.0.50727_X86 service was successfully sent a start control.
+ 15/06/2010 09:12:23: Information - Service Control Manager
+The Office Source Engine service entered the stopped state.
+ 15/06/2010 09:11:51: Information - Service Control Manager
+The .NET Runtime Optimization Service v2.0.50727_X86 service entered the stopped state.
+ 15/06/2010 09:11:51: Information - Service Control Manager
+The .NET Runtime Optimization Service v2.0.50727_X86 service was successfully sent a stop control.
+ 15/06/2010 09:08:33: Information - Windows Update Agent
+Installation Successful: Windows successfully installed the following update: Microsoft .NET Framework 3.5 SP1 and .NET Framework 2.0 SP2 Security Update for Windows 2000, Windows Server 2003, and Windows XP x86 (KB979909)
+ 15/06/2010 09:08:12: Information - Service Control Manager
+The .NET Runtime Optimization Service v2.0.50727_X86 service entered the running state.
+ 15/06/2010 09:08:12: Information - Service Control Manager
+The .NET Runtime Optimization Service v2.0.50727_X86 service was successfully sent a start control.
+ 15/06/2010 09:00:45: Information - Windows Update Agent
+Installation Successful: Windows successfully installed the following update: Cumulative Security Update for Internet Explorer 7 for Windows XP (KB982381)
+ 15/06/2010 09:00:41: Information - NtServicePack
+Windows XP Hotfix KB982381-IE7 was installed.
+ 15/06/2010 08:57:16: Information - Windows Update Agent
+Installation Successful: Windows successfully installed the following update: Security Update for Microsoft Office PowerPoint 2003 (KB982157)
+ 15/06/2010 08:55:51: Information - Windows Update Agent
+Installation Successful: Windows successfully installed the following update: Security Update for Microsoft Office InfoPath 2003 (KB980923)
+ 15/06/2010 08:55:23: Information - Service Control Manager
+The Office Source Engine service entered the running state.
+ 15/06/2010 08:55:23: Information - Service Control Manager
+The Office Source Engine service was successfully sent a start control.
+ 15/06/2010 08:54:09: Information - Service Control Manager
+The Windows Installer service entered the running state.
+ 15/06/2010 08:54:09: Information - Service Control Manager
+The Windows Installer service was successfully sent a start control.
+ 15/06/2010 08:52:08: Information - Service Control Manager
+The Windows Installer service entered the stopped state.
+ 15/06/2010 08:52:08: Information - Application Popup
+Application popup: ccmclient.exe - DLL Initialization Failed : The application failed to initialize because the window station is shutting down. 
+ 15/06/2010 08:52:06: Information - Windows Update Agent
+Installation Ready: The following updates are downloaded and ready for installation. This computer is currently scheduled to install these updates on ?15 ?June ?2010 at 13:00: 
+- Security Update for Microsoft Office InfoPath 2003 (KB980923)
+- Security Update for Microsoft Office PowerPoint 2003 (KB982157)
+- Cumulative Security Update for Internet Explorer 7 for Windows XP (KB982381)
+- Microsoft .NET Framework 3.5 SP1 and .NET Framework 2.0 SP2 Security Update for Windows 2000, Windows Server 2003, and Windows XP x86 (KB979909)
+- Microsoft .NET Framework 3.5 SP1 Update for Windows Server 2003 and Windows XP x86 (KB982168)
+- Security Update for Windows XP (KB975562)
+- Security Update for Windows XP (KB979482)
+- Security Update for Windows Media Format Runtime 9, 9.5 & 11 for Windows XP SP3 (KB978695)
+- Windows Malicious Software Removal Tool - June 2010 (KB890830)
+- Security Update for Windows XP (KB979559)
+- Update for Microsoft Office Outlook 2003 Junk Email Filter (KB983503)
+- Security Update for Microsoft Office Word 2003 (KB982134)
+- Security Update for Microsoft Office Publisher 2003 (KB982122)
+- Microsoft .NET Framework 1.1 SP1 Security Update for Wind
+ 15/06/2010 08:51:46: Information - Windows Update Agent
+Installation Ready: The following updates are downloaded and ready for installation. This computer is currently scheduled to install these updates on ?15 ?June ?2010 at 13:00: 
+- Security Update for Microsoft Office InfoPath 2003 (KB980923)
+- Security Update for Microsoft Office PowerPoint 2003 (KB982157)
+- Cumulative Security Update for Internet Explorer 7 for Windows XP (KB982381)
+- Microsoft .NET Framework 3.5 SP1 and .NET Framework 2.0 SP2 Security Update for Windows 2000, Windows Server 2003, and Windows XP x86 (KB979909)
+- Microsoft .NET Framework 3.5 SP1 Update for Windows Server 2003 and Windows XP x86 (KB982168)
+- Security Update for Windows XP (KB975562)
+- Security Update for Windows XP (KB979482)
+- Security Update for Windows Media Format Runtime 9, 9.5 & 11 for Windows XP SP3 (KB978695)
+- Windows Malicious Software Removal Tool - June 2010 (KB890830)
+- Security Update for Windows XP (KB979559)
+- Update for Microsoft Office Outlook 2003 Junk Email Filter (KB983503)
+- Security Update for Microsoft Office Word 2003 (KB982134)
+- Security Update for Microsoft Office Publisher 2003 (KB982122)
+- Microsoft .NET Framework 1.1 SP1 Security Update for Wind
+ 15/06/2010 08:51:33: Information - Windows Update Agent
+Installation Ready: The following updates are downloaded and ready for installation. This computer is currently scheduled to install these updates on ?15 ?June ?2010 at 13:00: 
+- Security Update for Microsoft Office InfoPath 2003 (KB980923)
+- Security Update for Microsoft Office PowerPoint 2003 (KB982157)
+- Cumulative Security Update for Internet Explorer 7 for Windows XP (KB982381)
+- Microsoft .NET Framework 3.5 SP1 and .NET Framework 2.0 SP2 Security Update for Windows 2000, Windows Server 2003, and Windows XP x86 (KB979909)
+- Microsoft .NET Framework 3.5 SP1 Update for Windows Server 2003 and Windows XP x86 (KB982168)
+- Security Update for Windows XP (KB975562)
+- Security Update for Windows XP (KB979482)
+- Security Update for Windows Media Format Runtime 9, 9.5 & 11 for Windows XP SP3 (KB978695)
+- Windows Malicious Software Removal Tool - June 2010 (KB890830)
+- Security Update for Windows XP (KB979559)
+- Update for Microsoft Office Outlook 2003 Junk Email Filter (KB983503)
+- Security Update for Microsoft Office Word 2003 (KB982134)
+- Security Update for Microsoft Office Publisher 2003 (KB982122)
+- Microsoft .NET Framework 1.1 SP1 Security Update for Wind
+ 15/06/2010 08:51:33: Information - Windows Update Agent
+Installation Ready: The following updates are downloaded and ready for installation. This computer is currently scheduled to install these updates on ?15 ?June ?2010 at 13:00: 
+- Security Update for Microsoft Office InfoPath 2003 (KB980923)
+- Security Update for Microsoft Office PowerPoint 2003 (KB982157)
+- Cumulative Security Update for Internet Explorer 7 for Windows XP (KB982381)
+- Microsoft .NET Framework 3.5 SP1 and .NET Framework 2.0 SP2 Security Update for Windows 2000, Windows Server 2003, and Windows XP x86 (KB979909)
+- Microsoft .NET Framework 3.5 SP1 Update for Windows Server 2003 and Windows XP x86 (KB982168)
+- Security Update for Windows XP (KB975562)
+- Security Update for Windows XP (KB979482)
+- Security Update for Windows Media Format Runtime 9, 9.5 & 11 for Windows XP SP3 (KB978695)
+- Windows Malicious Software Removal Tool - June 2010 (KB890830)
+- Security Update for Windows XP (KB979559)
+- Update for Microsoft Office Outlook 2003 Junk Email Filter (KB983503)
+- Security Update for Microsoft Office Word 2003 (KB982134)
+- Security Update for Microsoft Office Publisher 2003 (KB982122)
+- Microsoft .NET Framework 1.1 SP1 Security Update for Wind
+ 15/06/2010 08:51:15: Information - Windows Update Agent
+Installation Ready: The following updates are downloaded and ready for installation. This computer is currently scheduled to install these updates on ?15 ?June ?2010 at 13:00: 
+- Security Update for Microsoft Office InfoPath 2003 (KB980923)
+- Security Update for Microsoft Office PowerPoint 2003 (KB982157)
+- Cumulative Security Update for Internet Explorer 7 for Windows XP (KB982381)
+- Microsoft .NET Framework 3.5 SP1 and .NET Framework 2.0 SP2 Security Update for Windows 2000, Windows Server 2003, and Windows XP x86 (KB979909)
+- Microsoft .NET Framework 3.5 SP1 Update for Windows Server 2003 and Windows XP x86 (KB982168)
+- Security Update for Windows XP (KB975562)
+- Security Update for Windows XP (KB979482)
+- Security Update for Windows Media Format Runtime 9, 9.5 & 11 for Windows XP SP3 (KB978695)
+- Windows Malicious Software Removal Tool - June 2010 (KB890830)
+- Security Update for Windows XP (KB979559)
+- Update for Microsoft Office Outlook 2003 Junk Email Filter (KB983503)
+- Security Update for Microsoft Office Word 2003 (KB982134)
+- Security Update for Microsoft Office Publisher 2003 (KB982122)
+- Microsoft .NET Framework 1.1 SP1 Security Update for Wind
+ 15/06/2010 08:50:50: Information - Windows Update Agent
+Installation Ready: The following updates are downloaded and ready for installation. This computer is currently scheduled to install these updates on ?15 ?June ?2010 at 13:00: 
+- Security Update for Microsoft Office InfoPath 2003 (KB980923)
+- Security Update for Microsoft Office PowerPoint 2003 (KB982157)
+- Cumulative Security Update for Internet Explorer 7 for Windows XP (KB982381)
+- Microsoft .NET Framework 3.5 SP1 and .NET Framework 2.0 SP2 Security Update for Windows 2000, Windows Server 2003, and Windows XP x86 (KB979909)
+- Microsoft .NET Framework 3.5 SP1 Update for Windows Server 2003 and Windows XP x86 (KB982168)
+- Security Update for Windows XP (KB975562)
+- Security Update for Windows XP (KB979482)
+- Security Update for Windows Media Format Runtime 9, 9.5 & 11 for Windows XP SP3 (KB978695)
+- Windows Malicious Software Removal Tool - June 2010 (KB890830)
+- Security Update for Windows XP (KB979559)
+- Update for Microsoft Office Outlook 2003 Junk Email Filter (KB983503)
+- Security Update for Microsoft Office Word 2003 (KB982134)
+- Security Update for Microsoft Office Publisher 2003 (KB982122)
+ 15/06/2010 08:50:50: Information - Windows Update Agent
+Installation Ready: The following updates are downloaded and ready for installation. This computer is currently scheduled to install these updates on ?15 ?June ?2010 at 13:00: 
+- Security Update for Microsoft Office InfoPath 2003 (KB980923)
+- Security Update for Microsoft Office PowerPoint 2003 (KB982157)
+- Cumulative Security Update for Internet Explorer 7 for Windows XP (KB982381)
+- Microsoft .NET Framework 3.5 SP1 and .NET Framework 2.0 SP2 Security Update for Windows 2000, Windows Server 2003, and Windows XP x86 (KB979909)
+- Microsoft .NET Framework 3.5 SP1 Update for Windows Server 2003 and Windows XP x86 (KB982168)
+- Security Update for Windows XP (KB975562)
+- Security Update for Windows XP (KB979482)
+- Security Update for Windows Media Format Runtime 9, 9.5 & 11 for Windows XP SP3 (KB978695)
+- Windows Malicious Software Removal Tool - June 2010 (KB890830)
+- Security Update for Windows XP (KB979559)
+- Update for Microsoft Office Outlook 2003 Junk Email Filter (KB983503)
+- Security Update for Microsoft Office Word 2003 (KB982134)
+ 15/06/2010 08:50:44: Information - Windows Update Agent
+Installation Ready: The following updates are downloaded and ready for installation. This computer is currently scheduled to install these updates on ?15 ?June ?2010 at 13:00: 
+- Security Update for Microsoft Office InfoPath 2003 (KB980923)
+- Security Update for Microsoft Office PowerPoint 2003 (KB982157)
+- Cumulative Security Update for Internet Explorer 7 for Windows XP (KB982381)
+- Microsoft .NET Framework 3.5 SP1 and .NET Framework 2.0 SP2 Security Update for Windows 2000, Windows Server 2003, and Windows XP x86 (KB979909)
+- Microsoft .NET Framework 3.5 SP1 Update for Windows Server 2003 and Windows XP x86 (KB982168)
+- Security Update for Windows XP (KB975562)
+- Security Update for Windows XP (KB979482)
+- Security Update for Windows Media Format Runtime 9, 9.5 & 11 for Windows XP SP3 (KB978695)
+- Windows Malicious Software Removal Tool - June 2010 (KB890830)
+- Security Update for Windows XP (KB979559)
+- Update for Microsoft Office Outlook 2003 Junk Email Filter (KB983503)
+ 15/06/2010 08:50:44: Information - Windows Update Agent
+Installation Ready: The following updates are downloaded and ready for installation. This computer is currently scheduled to install these updates on ?15 ?June ?2010 at 13:00: 
+- Security Update for Microsoft Office InfoPath 2003 (KB980923)
+- Security Update for Microsoft Office PowerPoint 2003 (KB982157)
+- Cumulative Security Update for Internet Explorer 7 for Windows XP (KB982381)
+- Microsoft .NET Framework 3.5 SP1 and .NET Framework 2.0 SP2 Security Update for Windows 2000, Windows Server 2003, and Windows XP x86 (KB979909)
+- Microsoft .NET Framework 3.5 SP1 Update for Windows Server 2003 and Windows XP x86 (KB982168)
+- Security Update for Windows XP (KB975562)
+- Security Update for Windows XP (KB979482)
+- Security Update for Windows Media Format Runtime 9, 9.5 & 11 for Windows XP SP3 (KB978695)
+- Windows Malicious Software Removal Tool - June 2010 (KB890830)
+- Security Update for Windows XP (KB979559)
+ 15/06/2010 08:50:15: Information - Windows Update Agent
+Installation Ready: The following updates are downloaded and ready for installation. This computer is currently scheduled to install these updates on ?15 ?June ?2010 at 13:00: 
+- Security Update for Microsoft Office InfoPath 2003 (KB980923)
+- Security Update for Microsoft Office PowerPoint 2003 (KB982157)
+- Cumulative Security Update for Internet Explorer 7 for Windows XP (KB982381)
+- Microsoft .NET Framework 3.5 SP1 and .NET Framework 2.0 SP2 Security Update for Windows 2000, Windows Server 2003, and Windows XP x86 (KB979909)
+- Microsoft .NET Framework 3.5 SP1 Update for Windows Server 2003 and Windows XP x86 (KB982168)
+- Security Update for Windows XP (KB975562)
+- Security Update for Windows XP (KB979482)
+- Security Update for Windows Media Format Runtime 9, 9.5 & 11 for Windows XP SP3 (KB978695)
+- Windows Malicious Software Removal Tool - June 2010 (KB890830)
+ 15/06/2010 08:50:10: Information - Windows Update Agent
+Installation Ready: The following updates are downloaded and ready for installation. This computer is currently scheduled to install these updates on ?15 ?June ?2010 at 13:00: 
+- Security Update for Microsoft Office InfoPath 2003 (KB980923)
+- Security Update for Microsoft Office PowerPoint 2003 (KB982157)
+- Cumulative Security Update for Internet Explorer 7 for Windows XP (KB982381)
+- Microsoft .NET Framework 3.5 SP1 and .NET Framework 2.0 SP2 Security Update for Windows 2000, Windows Server 2003, and Windows XP x86 (KB979909)
+- Microsoft .NET Framework 3.5 SP1 Update for Windows Server 2003 and Windows XP x86 (KB982168)
+- Security Update for Windows XP (KB975562)
+- Security Update for Windows XP (KB979482)
+- Security Update for Windows Media Format Runtime 9, 9.5 & 11 for Windows XP SP3 (KB978695)
+ 15/06/2010 08:49:55: Information - Windows Update Agent
+Installation Ready: The following updates are downloaded and ready for installation. This computer is currently scheduled to install these updates on ?15 ?June ?2010 at 13:00: 
+- Security Update for Microsoft Office InfoPath 2003 (KB980923)
+- Security Update for Microsoft Office PowerPoint 2003 (KB982157)
+- Cumulative Security Update for Internet Explorer 7 for Windows XP (KB982381)
+- Microsoft .NET Framework 3.5 SP1 and .NET Framework 2.0 SP2 Security Update for Windows 2000, Windows Server 2003, and Windows XP x86 (KB979909)
+- Microsoft .NET Framework 3.5 SP1 Update for Windows Server 2003 and Windows XP x86 (KB982168)
+- Security Update for Windows XP (KB975562)
+- Security Update for Windows XP (KB979482)
+ 15/06/2010 08:49:43: Information - Windows Update Agent
+Installation Ready: The following updates are downloaded and ready for installation. This computer is currently scheduled to install these updates on ?15 ?June ?2010 at 13:00: 
+- Security Update for Microsoft Office InfoPath 2003 (KB980923)
+- Security Update for Microsoft Office PowerPoint 2003 (KB982157)
+- Cumulative Security Update for Internet Explorer 7 for Windows XP (KB982381)
+- Microsoft .NET Framework 3.5 SP1 and .NET Framework 2.0 SP2 Security Update for Windows 2000, Windows Server 2003, and Windows XP x86 (KB979909)
+- Microsoft .NET Framework 3.5 SP1 Update for Windows Server 2003 and Windows XP x86 (KB982168)
+- Security Update for Windows XP (KB975562)
+ 15/06/2010 08:49:16: Information - Windows Update Agent
+Installation Ready: The following updates are downloaded and ready for installation. This computer is currently scheduled to install these updates on ?15 ?June ?2010 at 13:00: 
+- Security Update for Microsoft Office InfoPath 2003 (KB980923)
+- Security Update for Microsoft Office PowerPoint 2003 (KB982157)
+- Cumulative Security Update for Internet Explorer 7 for Windows XP (KB982381)
+- Microsoft .NET Framework 3.5 SP1 and .NET Framework 2.0 SP2 Security Update for Windows 2000, Windows Server 2003, and Windows XP x86 (KB979909)
+- Microsoft .NET Framework 3.5 SP1 Update for Windows Server 2003 and Windows XP x86 (KB982168)
+ 15/06/2010 08:48:44: Information - Windows Update Agent
+Installation Ready: The following updates are downloaded and ready for installation. This computer is currently scheduled to install these updates on ?15 ?June ?2010 at 13:00: 
+- Security Update for Microsoft Office InfoPath 2003 (KB980923)
+- Security Update for Microsoft Office PowerPoint 2003 (KB982157)
+- Cumulative Security Update for Internet Explorer 7 for Windows XP (KB982381)
+- Microsoft .NET Framework 3.5 SP1 and .NET Framework 2.0 SP2 Security Update for Windows 2000, Windows Server 2003, and Windows XP x86 (KB979909)
+ 15/06/2010 08:48:39: Information - Windows Update Agent
+Installation Ready: The following updates are downloaded and ready for installation. This computer is currently scheduled to install these updates on ?15 ?June ?2010 at 13:00: 
+- Security Update for Microsoft Office InfoPath 2003 (KB980923)
+- Security Update for Microsoft Office PowerPoint 2003 (KB982157)
+- Cumulative Security Update for Internet Explorer 7 for Windows XP (KB982381)
+ 15/06/2010 08:47:46: Information - Windows Update Agent
+Installation Ready: The following updates are downloaded and ready for installation. This computer is currently scheduled to install these updates on ?15 ?June ?2010 at 13:00: 
+- Security Update for Microsoft Office InfoPath 2003 (KB980923)
+- Security Update for Microsoft Office PowerPoint 2003 (KB982157)
+ 15/06/2010 08:47:41: Information - Windows Update Agent
+Installation Ready: The following updates are downloaded and ready for installation. This computer is currently scheduled to install these updates on ?15 ?June ?2010 at 13:00: 
+- Security Update for Microsoft Office InfoPath 2003 (KB980923)
+ 15/06/2010 08:40:25: Information - Service Control Manager
+The Windows Installer service entered the running state.
+ 15/06/2010 08:40:25: Information - Service Control Manager
+The Windows Installer service was successfully sent a start control.
+ 15/06/2010 08:37:59: Warning - Print
+Printer Driver Canon LBP2900 for Windows NT x86 Version-3 was added or updated. Files:- CNAB4M.DLL, CNAB4MUI.DLL, LB2900AK.XPD, CNAB4.HLP, LB2900AK.UPD, CNAB4809.DLL, CNAB4STU.DLL, CNAB4INK.DAT, CNAB4SWK.EXE, CNAB4LAK.EXE, CNAB4SMK.DLL, CNAB4LMK.DLL, CNAB4RPK.EXE, CNAB4EMU.DLL, CNAB4PTU.DLL, CNAB4PMU.DLL, CNAB4UN.EXE, CNAB4UN.INI, CNAB4.CNT, CNXP0RSX.DLL, CNAB4RDK.DLL, CPC10SA4.DLL, CPC10DA4.EXE, CPC10QA4.EXE, CPC10EA4.DLL, CPC10VA4.EXE, CPC1UKA4.DLL, CPC1UKA4.CNT, CPC1UKA4.HLP, UCS32P.DLL, CNXPTN32.DLL, CNXPVT32.DLL, CNXPCP32.DLL, CNAB4DN.WAV, CNAB4ER.WAV, CNAB4SE.WAV, CNAB4RM.WAV, CNACCM32.DLL, CNLK.PRF, CNAC17E9.DAT, LB2900AK_D1AB7.upd.
+ 15/06/2010 08:37:37: Warning - Print
+Printer Driver Canon iP1200 for Windows NT x86 Version-3 was added or updated. Files:- CNMDR76.DLL, CNMUI76.DLL, CNMCP76.DLL, CNMMH76.CHM, CNMLR76.DLL, CNMCB76.DLL, CNMD576.DLL, CNMUR76.DLL, CNMSR76.DLL, CNMIN76.INI, CNMPI76.DLL, CNMSM76.DLL, CNMSS76.SMR, CNMSD76.DLL, CNMSQ76.DLL, CNMSH76.CHM, CNMUB76.DLL, CNMUM76.DLL, CNMOP76.DLL, CNMSB76.DLL, CNB_2580.TBL, CNMP076.DAT, CNMP176.DAT, CNMP276.DAT, CNMFU76.DLL, CNMPV76.DLL, CNMW376.DLL, CNMUR760.407, CNMSR760.407, CNMLR760.407, CNMMH760.407, CNMSH760.407, CNMUR760.40C, CNMSR760.40C, CNMLR760.40C, CNMMH760.40C, CNMSH760.40C, CNMUR760.410, CNMSR760.410, CNMLR760.410, CNMMH760.410, CNMSH760.410, CNMUR760.C0A, CNMSR760.C0A, CNMLR760.C0A, CNMMH760.C0A, CNMSH760.C0A, CNMUR760.816, CNMSR760.816, CNMLR760.816, CNMMH760.816, CNMSH760.816, CNMUR760.406, CNMSR760.406, CNMLR760.406, CNMMH760.406, CNMSH760.406, CNMUR760.414, CNMSR760.414, CNMLR760.414, CNMMH760.414, CNMSH760.414, CNMUR760.41D, CNMSR760.41D, CNMLR760.41D, CNMMH760.41D, CNMSH760.41D, CNMUR760.40B, CNMSR760.40B, CNMLR760.40B, CNMMH760.40B, CNMSH760.40B, CNMUR760.408, CNMSR760.408, CNMLR760.408, CNMMH760.408, CNMSH760.408, CNMUR760.415, CNMSR760.415, CNMLR760.415, CNMMH760.415, CNMSH760.415, CNMUR760.405, CNMSR760.405, CNMLR760.405, CNMMH760.405, CNMSH760.405, CNMUR760.419, CNMSR760.419, CNMLR760.419, CNMMH760.419, CNMSH760.419, CNMUR760.40E, CNMSR760.40E, CNMLR760.40E, CNMMH760.40E, CNMSH760.40E, CNMUR760.413, CNMSR760.413, CNMLR760.413, CNMMH760.413, CNMSH760.413, CNMUR760.41F, CNMSR760.41F, CNMLR760.41F, CNMMH760.41F, CNMSH760.41F, CNMUR760.804, CNMSR760.804, CNMLR760.804, CNMMH760.804, CNMSH760.804, CNMUR760.404, CNMSR760.404, CNMLR760.404, CNMMH760.404, CNMSH760.404, CNMUR760.412, CNMSR760.412, CNMLR760.412, CNMMH760.412, CNMSH760.412, CNMUR760.41E, CNMSR760.41E, CNMLR760.41E, CNMMH760.41E, CNMSH760.41E, CNMLR760.411, CNMUR760.411, CNMSR760.411, CNMMH760.411, CNMSH760.411.
+ 15/06/2010 08:37:37: Warning - Print
+Printer Driver HP LaserJet P2050 Series PCL6 for Windows NT x86 Version-3 was added or updated. Files:- unidrv.dll, hpmdp6bu.dll, hpc205h6.GPD, unidrv.hlp, hpcp205h.exp, hpc205h6.XML, hpcsc6bu.DTD, hpc205hc.INI, hpcP6.hpx, hpcui6bu.DLL, hpcpe6bu.DLL, hpc3r6bu.DLL, hpc6r6bu.DLL, hpcbr6bu.DLL, hpcdmc32.DLL, hpbcfgre.DLL, cioum.dll, CIOUM32.msi, hpc6m6bu.GPD, hpcsm6bu.GPD, hpcst6bu.DLL, hpcur6bu.dll, hpmsn6bu.DLL, hpmsl6bu.DLL, hpcsn6bu.dem, hpcsat.dll, hppdvq01.dll, hppccdvq32.dll, hpcev6bu.DLL, pclxl.DLL, pjl.GPD, pclxl.GPD, HPCHL6bu.CAB, UNIRES.DLL, UNIDRVUI.DLL, STDNAMES.GPD, STDDTYPE.GDL, STDSCHEM.GDL, STDSCHMX.GDL, hpcls6bu.DLL, hpcss6bu.DLL, hpcpn6bu.dll, hpcc36bu.DLL.
+ 15/06/2010 08:37:33: Warning - Print
+Printer Driver Canon iP3500 series for Windows NT x86 Version-3 was added or updated. Files:- CNMDR8V.DLL, CNMUI8V.DLL, CNMCP8V.DLL, CNMMH8V.CHM, CNMLR8V.DLL, CNMCB8V.DLL, CNMD58V.DLL, CNMUR8V.DLL, CNMSR8V.DLL, CNMIN8V.INI, CNMPI8V.DLL, CNMSM8V.DLL, CNMSS8V.SMR, CNMSD8V.DLL, CNMSQ8V.DLL, CNMSH8V.CHM, CNMIH8V.CHM, CNMUB8V.DLL, CNMOP8V.DLL, CNMSB8V.DLL, CNB_3190.TBL, CNMP08V.DAT, CNMP18V.DAT, CNMP28V.DAT, CNMFU8V.DLL, CNMLH8V.DLL, CNMPV8V.DLL, CNMSE8V.EXE, CNMBU8V.DLL, CNMBM8V.DLL, CNMBS8V.DLL, CNMVS8V.DLL, CNMW38V.DLL, CNMLR8V0.411, CNMUR8V0.411, CNMSR8V0.411, CNMMH8V0.411, CNMSH8V0.411, CNMIH8V0.411, CNMLR8V0.40c, CNMUR8V0.40c, CNMSR8V0.40c, CNMMH8V0.40c, CNMSH8V0.40c, CNMIH8V0.40c, CNMLR8V0.407, CNMUR8V0.407, CNMSR8V0.407, CNMMH8V0.407, CNMSH8V0.407, CNMIH8V0.407, CNMLR8V0.410, CNMUR8V0.410, CNMSR8V0.410, CNMMH8V0.410, CNMSH8V0.410, CNMIH8V0.410, CNMLR8V0.c0a, CNMUR8V0.c0a, CNMSR8V0.c0a, CNMMH8V0.c0a, CNMSH8V0.c0a, CNMIH8V0.c0a, CNMLR8V0.816, CNMUR8V0.816, CNMSR8V0.816, CNMMH8V0.816, CNMSH8V0.816, CNMIH8V0.816, CNMLR8V0.406, CNMUR8V0.406, CNMSR8V0.406, CNMMH8V0.406, CNMSH8V0.406, CNMIH8V0.406, CNMLR8V0.414, CNMUR8V0.414, CNMSR8V0.414, CNMMH8V0.414, CNMSH8V0.414, CNMIH8V0.414, CNMLR8V0.41D, CNMUR8V0.41D, CNMSR8V0.41D, CNMMH8V0.41D, CNMSH8V0.41D, CNMIH8V0.41D, CNMLR8V0.40b, CNMUR8V0.40b, CNMSR8V0.40b, CNMMH8V0.40b, CNMSH8V0.40b, CNMIH8V0.40b, CNMLR8V0.408, CNMUR8V0.408, CNMSR8V0.408, CNMMH8V0.408, CNMSH8V0.408, CNMIH8V0.408, CNMLR8V0.415, CNMUR8V0.415, CNMSR8V0.415, CNMMH8V0.415, CNMSH8V0.415, CNMIH8V0.415, CNMLR8V0.405, CNMUR8V0.405, CNMSR8V0.405, CNMMH8V0.405, CNMSH8V0.405, CNMIH8V0.405, CNMLR8V0.419, CNMUR8V0.419, CNMSR8V0.419, CNMMH8V0.419, CNMSH8V0.419, CNMIH8V0.419, CNMLR8V0.40e, CNMUR8V0.40e, CNMSR8V0.40e, CNMMH8V0.40e, CNMSH8V0.40e, CNMIH8V0.40e, CNMLR8V0.413, CNMUR8V0.413, CNMSR8V0.413, CNMMH8V0.413, CNMSH8V0.413, CNMIH8V0.413, CNMLR8V0.41F, CNMUR8V0.41F, CNMSR8V0.41F, CNMMH8V0.41F, CNMSH8V0.41F, CNMIH8V0.41F, CNMLR8V0.401, CNMUR8V0.401, CNMSR8V0.401, CNMMH8V0.401, CNMSH8V0.401, CNMIH8V0.401, CNMLR8V0.804, CNMUR8V0.804, CNMSR8V0.804, CNMMH8V0.804, CNMSH8V0.804, CNMIH8V0.804, CNMLR8V0.404, CNMUR8V0.404, CNMSR8V0.404, CNMMH8V0.404, CNMSH8V0.404, CNMIH8V0.404, CNMLR8V0.412, CNMUR8V0.412, CNMSR8V0.412, CNMMH8V0.412, CNMSH8V0.412, CNMIH8V0.412, CNMLR8V0.41E, CNMUR8V0.41E, CNMSR8V0.41E, CNMMH8V0.41E, CNMSH8V0.41E, CNMIH8V0.41E, CNMLR8V0.421, CNMUR8V0.421, CNMSR8V0.421, CNMMH8V0.421, CNMSH8V0.421, CNMIH8V0.421.
+ 15/06/2010 08:37:17: Warning - Print
+Printer Driver Canon iP3500 series for Windows NT x86 Version-3 was added or updated. Files:- CNMDR8V.DLL, CNMUI8V.DLL, CNMCP8V.DLL, CNMMH8V.CHM, CNMLR8V.DLL, CNMCB8V.DLL, CNMD58V.DLL, CNMUR8V.DLL, CNMSR8V.DLL, CNMIN8V.INI, CNMPI8V.DLL, CNMSM8V.DLL, CNMSS8V.SMR, CNMSD8V.DLL, CNMSQ8V.DLL, CNMSH8V.CHM, CNMIH8V.CHM, CNMUB8V.DLL, CNMOP8V.DLL, CNMSB8V.DLL, CNB_3190.TBL, CNMP08V.DAT, CNMP18V.DAT, CNMP28V.DAT, CNMFU8V.DLL, CNMLH8V.DLL, CNMPV8V.DLL, CNMSE8V.EXE, CNMBU8V.DLL, CNMBM8V.DLL, CNMBS8V.DLL, CNMVS8V.DLL, CNMW38V.DLL, CNMLR8V0.411, CNMUR8V0.411, CNMSR8V0.411, CNMMH8V0.411, CNMSH8V0.411, CNMIH8V0.411, CNMLR8V0.40c, CNMUR8V0.40c, CNMSR8V0.40c, CNMMH8V0.40c, CNMSH8V0.40c, CNMIH8V0.40c, CNMLR8V0.407, CNMUR8V0.407, CNMSR8V0.407, CNMMH8V0.407, CNMSH8V0.407, CNMIH8V0.407, CNMLR8V0.410, CNMUR8V0.410, CNMSR8V0.410, CNMMH8V0.410, CNMSH8V0.410, CNMIH8V0.410, CNMLR8V0.c0a, CNMUR8V0.c0a, CNMSR8V0.c0a, CNMMH8V0.c0a, CNMSH8V0.c0a, CNMIH8V0.c0a, CNMLR8V0.816, CNMUR8V0.816, CNMSR8V0.816, CNMMH8V0.816, CNMSH8V0.816, CNMIH8V0.816, CNMLR8V0.406, CNMUR8V0.406, CNMSR8V0.406, CNMMH8V0.406, CNMSH8V0.406, CNMIH8V0.406, CNMLR8V0.414, CNMUR8V0.414, CNMSR8V0.414, CNMMH8V0.414, CNMSH8V0.414, CNMIH8V0.414, CNMLR8V0.41D, CNMUR8V0.41D, CNMSR8V0.41D, CNMMH8V0.41D, CNMSH8V0.41D, CNMIH8V0.41D, CNMLR8V0.40b, CNMUR8V0.40b, CNMSR8V0.40b, CNMMH8V0.40b, CNMSH8V0.40b, CNMIH8V0.40b, CNMLR8V0.408, CNMUR8V0.408, CNMSR8V0.408, CNMMH8V0.408, CNMSH8V0.408, CNMIH8V0.408, CNMLR8V0.415, CNMUR8V0.415, CNMSR8V0.415, CNMMH8V0.415, CNMSH8V0.415, CNMIH8V0.415, CNMLR8V0.405, CNMUR8V0.405, CNMSR8V0.405, CNMMH8V0.405, CNMSH8V0.405, CNMIH8V0.405, CNMLR8V0.419, CNMUR8V0.419, CNMSR8V0.419, CNMMH8V0.419, CNMSH8V0.419, CNMIH8V0.419, CNMLR8V0.40e, CNMUR8V0.40e, CNMSR8V0.40e, CNMMH8V0.40e, CNMSH8V0.40e, CNMIH8V0.40e, CNMLR8V0.413, CNMUR8V0.413, CNMSR8V0.413, CNMMH8V0.413, CNMSH8V0.413, CNMIH8V0.413, CNMLR8V0.41F, CNMUR8V0.41F, CNMSR8V0.41F, CNMMH8V0.41F, CNMSH8V0.41F, CNMIH8V0.41F, CNMLR8V0.401, CNMUR8V0.401, CNMSR8V0.401, CNMMH8V0.401, CNMSH8V0.401, CNMIH8V0.401, CNMLR8V0.804, CNMUR8V0.804, CNMSR8V0.804, CNMMH8V0.804, CNMSH8V0.804, CNMIH8V0.804, CNMLR8V0.404, CNMUR8V0.404, CNMSR8V0.404, CNMMH8V0.404, CNMSH8V0.404, CNMIH8V0.404, CNMLR8V0.412, CNMUR8V0.412, CNMSR8V0.412, CNMMH8V0.412, CNMSH8V0.412, CNMIH8V0.412, CNMLR8V0.41E, CNMUR8V0.41E, CNMSR8V0.41E, CNMMH8V0.41E, CNMSH8V0.41E, CNMIH8V0.41E, CNMLR8V0.421, CNMUR8V0.421, CNMSR8V0.421, CNMMH8V0.421, CNMSH8V0.421, CNMIH8V0.421.
+ 15/06/2010 08:37:04: Error - Service Control Manager
+Timeout (30000 milliseconds) waiting for the Google Software Updater service to connect.
+ 15/06/2010 08:37:01: Error - DCOM
+DCOM got error "The service did not respond to the start or control request in a timely fashion." attempting to start the service gusvc with arguments ""
+in order to run the server:
+{89DAE4CD-9F17-4980-902A-99BA84A8F5C8}
+ 15/06/2010 08:34:55: Warning - Print
+Printer Driver HP LaserJet 1020 for Windows NT x86 Version-3 was added or updated. Files:- ZIMFDRV.DLL, ZSDNT5UI.DLL, SDhp1020.SDD, SDhp1020.CHM, SDhp1020.DLL, SUhp1020.DLL, SUhp1020.ENT, SUhp1020.VER, SDhp1020.UNZ, ZJBIG.DLL, ZSUXML.DLL, XERCES-C.DLL, ZIMFPRNT.DLL, ZQDPRINT.DLL, ZSD.DLL, ZSDIMF.DLL, ZSDDM.DLL, ZSDDMUI.DLL, ZSR.DLL, ZGDI.DLL, ZSPOOL.DLL, ZTAG.DLL, ZIMF.DLL.
+ 15/06/2010 08:31:01: Information - Service Control Manager
+The IMAPI CD-Burning COM Service service entered the stopped state.
+ 15/06/2010 08:30:35: Information - Service Control Manager
+The IMAPI CD-Burning COM Service service entered the running state.
+ 15/06/2010 08:30:34: Information - Service Control Manager
+The IMAPI CD-Burning COM Service service was successfully sent a start control.
+ 15/06/2010 08:29:50: Warning - Print
+Printer Driver HP LaserJet 1020 for Windows NT x86 Version-3 was added or updated. Files:- ZIMFDRV.DLL, ZSDNT5UI.DLL, SDhp1020.SDD, SDhp1020.CHM, SDhp1020.DLL, SUhp1020.DLL, SUhp1020.ENT, SUhp1020.VER, SDhp1020.UNZ, ZJBIG.DLL, ZSUXML.DLL, XERCES-C.DLL, ZIMFPRNT.DLL, ZQDPRINT.DLL, ZSD.DLL, ZSDIMF.DLL, ZSDDM.DLL, ZSDDMUI.DLL, ZSR.DLL, ZGDI.DLL, ZSPOOL.DLL, ZTAG.DLL, ZIMF.DLL.
+ 15/06/2010 08:27:44: Information - Service Control Manager
+The Google Update Service (gupdate1c9d5179bba2916) service entered the stopped state.
+ 15/06/2010 08:27:44: Information - Service Control Manager
+The Terminal Services service entered the running state.
+ 15/06/2010 08:27:44: Information - Service Control Manager
+The Terminal Services service was successfully sent a start control.
+ 15/06/2010 08:27:44: Information - Service Control Manager
+The Remote Access Connection Manager service entered the running state.
+ 15/06/2010 08:27:44: Information - Service Control Manager
+The Remote Access Connection Manager service was successfully sent a start control.
+ 15/06/2010 08:27:44: Information - Service Control Manager
+The Telephony service entered the running state.
+ 15/06/2010 08:27:44: Information - Service Control Manager
+The Application Layer Gateway Service service entered the running state.
+ 15/06/2010 08:27:44: Information - Service Control Manager
+The Application Layer Gateway Service service was successfully sent a start control.
+ 15/06/2010 08:27:44: Information - Service Control Manager
+The Background Intelligent Transfer Service service entered the running state.
+ 15/06/2010 08:27:44: Information - Service Control Manager
+The Background Intelligent Transfer Service service was successfully sent a start control.
+ 15/06/2010 08:27:44: Information - Service Control Manager
+The Network Location Awareness (NLA) service entered the running state.
+ 15/06/2010 08:27:44: Information - Service Control Manager
+The Network Location Awareness (NLA) service was successfully sent a start control.
+ 15/06/2010 08:27:14: Information - W32Time
+The time service is now synchronizing the system time with the time
+source k2.kisc.edu.np (ntp.d|10.10.1.147:123->10.10.1.2:123).
+ 15/06/2010 08:26:57: Information - WMPNetworkSvc
+Service 'WMPNetworkSvc' started.
+ 15/06/2010 08:26:35: Information - Tcpip
+The system detected that network adapter INPROCOMM...LAN Card - Packet Scheduler Miniport was connected to the network,
+and has initiated normal operation over the network adapter.
+ 15/06/2010 08:26:29: Information - Tcpip
+The system detected that network adapter INPROCOMM...LAN Card - Packet Scheduler Miniport was connected to the network,
+and has initiated normal operation over the network adapter.
+ 15/06/2010 08:26:21: Information - EventLog
+The Event log service was started.
+ 15/06/2010 08:26:21: Information - EventLog
+Microsoft (R) Windows (R) 5.01. 2600 Service Pack 3 Uniprocessor Free.
+ 08/06/2010 13:23:47: Information - EventLog
+The Event log service was stopped.
+ 08/06/2010 13:22:56: Information - Application Popup
+Application popup: ccmclient.exe - DLL Initialization Failed : The application failed to initialize because the window station is shutting down. 
+ 08/06/2010 12:54:21: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \matthew\Firefox\Profiles\browser.default\places.sqlite-journal. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:54:21: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \matthew\Firefox\Profiles\browser.default\cookies.sqlite. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:54:21: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:54:21: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:54:21: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:54:21: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \matthew\Firefox\Profiles\browser.default\Cache\_CACHE_003_. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:54:21: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:54:21: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \matthew\Firefox\Profiles\browser.default\Cache\_CACHE_002_. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:54:21: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:54:21: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \matthew\Firefox\Profiles\browser.default\Cache\_CACHE_001_. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:53:26: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:53:26: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\Cache\_CACHE_001_. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:53:25: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:53:25: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\cookies.sqlite. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:53:24: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:53:24: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\cookies.sqlite. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:53:23: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:53:23: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\cookies.sqlite. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:53:19: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:53:19: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\Cache\_CACHE_001_. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:53:16: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:53:16: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\cookies.sqlite. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:52:39: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:52:39: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\Cache\_CACHE_001_. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:51:54: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:51:54: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\Cache\_CACHE_001_. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:51:49: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:51:49: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\cookies.sqlite. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:51:09: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:51:09: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\Cache\_CACHE_001_. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:50:24: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:50:24: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\Cache\_CACHE_001_. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:49:39: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:49:39: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\Cache\_CACHE_001_. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:48:54: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:48:54: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\Cache\_CACHE_001_. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:48:09: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:48:09: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\Cache\_CACHE_001_. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:47:24: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:47:24: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\Cache\_CACHE_001_. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:46:46: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:46:46: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\cookies.sqlite. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:46:40: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:46:40: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\Cache\_CACHE_001_. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:46:36: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:46:36: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\Cache\_CACHE_001_. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:46:33: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:46:33: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\Cache\_CACHE_001_. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:45:54: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:45:54: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\Cache\_CACHE_001_. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:45:10: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:45:10: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\Cache\_CACHE_001_. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:44:23: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:44:23: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\Cache\_CACHE_001_. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:43:38: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:43:38: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\Cache\_CACHE_001_. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:42:54: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:42:54: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\Cache\_CACHE_001_. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:42:07: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:42:07: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\Cache\_CACHE_001_. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:41:23: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:41:23: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\Cache\_CACHE_001_. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:41:03: Information - Tcpip
+The system detected that network adapter INPROCOMM...LAN Card - Packet Scheduler Miniport was connected to the network,
+and has initiated normal operation over the network adapter.
+ 08/06/2010 12:41:01: Warning - Dhcp
+Your computer was not able to renew its address from the network (from the
+DHCP Server) for the Network Card with network address 0014A411393A.  The following
+error occurred: 
+%The operation was canceled by the user..
+Your computer will continue to try and obtain an address on its own from
+the network address (DHCP) server.
+ 08/06/2010 12:40:58: Warning - Dhcp
+Your computer was not able to renew its address from the network (from the
+DHCP Server) for the Network Card with network address 0014A411393A.  The following
+error occurred: 
+%The operation was canceled by the user..
+Your computer will continue to try and obtain an address on its own from
+the network address (DHCP) server.
+ 08/06/2010 12:40:58: Information - Tcpip
+The system detected that network adapter INPROCOMM...LAN Card - Packet Scheduler Miniport was connected to the network,
+and has initiated normal operation over the network adapter.
+ 08/06/2010 12:40:53: Information - Tcpip
+The system detected that network adapter INPROCOMM...LAN Card - Packet Scheduler Miniport was connected to the network,
+and has initiated normal operation over the network adapter.
+ 08/06/2010 12:40:50: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:40:50: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\Cache\_CACHE_001_. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:40:49: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:40:49: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\Cache\_CACHE_001_. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:40:46: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:40:46: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\Cache\_CACHE_001_. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:40:45: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:40:45: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\Cache\_CACHE_001_. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:40:43: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\cookies.sqlite. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:40:43: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:40:37: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:40:37: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\Cache\_CACHE_001_. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:39:52: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:39:52: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\Cache\_CACHE_001_. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:39:08: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:39:08: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\Cache\_CACHE_001_. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:39:07: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:39:07: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\Cache\_CACHE_001_. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:38:22: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:38:22: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\Cache\_CACHE_001_. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:37:37: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:37:37: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\Cache\_CACHE_001_. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:36:52: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:36:52: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\Cache\_CACHE_001_. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:36:37: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:36:37: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\cookies.sqlite. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:36:07: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:36:07: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\Cache\_CACHE_001_. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:35:22: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:35:22: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\Cache\_CACHE_001_. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:34:57: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:34:57: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\Cache\_CACHE_002_. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:34:55: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:34:55: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\cookies.sqlite. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:34:54: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:34:54: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\cookies.sqlite. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:34:51: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:34:51: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\Cache\_CACHE_001_. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:34:50: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:34:50: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\Cache\_CACHE_001_. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:34:48: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:34:48: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\Cache\_CACHE_001_. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:34:47: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\Cache\_CACHE_001_. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:34:47: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:34:45: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:34:45: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\Cache\_CACHE_001_. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:34:43: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:34:43: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\Cache\_CACHE_001_. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:34:42: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:34:42: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\Cache\_CACHE_001_. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:34:40: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:34:40: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\Cache\_CACHE_001_. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:34:34: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:34:34: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\cookies.sqlite. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:34:30: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\Cache\_CACHE_001_. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:34:30: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:34:29: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\Cache\_CACHE_001_. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:34:29: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:34:28: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:34:28: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\Cache\_CACHE_003_. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:34:26: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:34:26: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\cookies.sqlite. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:34:25: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:34:25: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\Cache\_CACHE_001_. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:34:24: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:34:24: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\Cache\_CACHE_001_. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:34:23: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:34:23: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\Cache\_CACHE_001_. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:34:19: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\Cache\_CACHE_001_. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:34:19: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:34:18: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:34:18: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\Cache\_CACHE_001_. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:34:17: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:34:17: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\Cache\_CACHE_001_. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:34:16: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:34:16: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\Cache\_CACHE_001_. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:34:15: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:34:15: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\Cache\_CACHE_001_. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:34:14: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:34:14: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\Cache\_CACHE_001_. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:34:13: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:34:13: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\Cache\_CACHE_001_. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:34:09: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:34:09: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\Cache\_CACHE_001_. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:34:08: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:34:08: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\cookies.sqlite. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:34:07: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:34:07: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\cookies.sqlite. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 
+ 08/06/2010 12:34:06: Warning - MRxSmb
+{Delayed Write Failed}
+Windows was unable to save all the data for the file \Device\LanmanRedirector. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+ 08/06/2010 12:34:06: Information - Application Popup
+Application popup: Windows - Delayed Write Failed : Windows was unable to save all the data for the file \\users\staffSpace\matthew\Firefox\Profiles\browser.default\cookies.sqlite. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere. 

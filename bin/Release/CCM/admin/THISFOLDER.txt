@@ -1,0 +1,3 @@
+This folder should have ADMIN permissions and contain the CCMAdmin tool, if you use it.
+
+<>< Reticon

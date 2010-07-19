@@ -1,0 +1,48 @@
+C:\webdev\KISC\ccmc\bin\Release\CCMClient.exe.config
+C:\webdev\KISC\ccmc\obj\Release\CCMClient.exe
+C:\webdev\KISC\ccmc\obj\Release\ResolveAssemblyReference.cache
+C:\webdev\KISC\ccmc\obj\Release\CCMClient.connections.resources
+C:\webdev\KISC\ccmc\obj\Release\CCMClient.DDE.DDEListener.resources
+C:\webdev\KISC\ccmc\obj\Release\CCMClient.Form1.resources
+C:\webdev\KISC\ccmc\obj\Release\CCMClient.message.resources
+C:\webdev\KISC\ccmc\obj\Release\CCMClient.NotifyIconEx.resources
+C:\webdev\KISC\ccmc\obj\Release\CCMClient.Properties.Resources.resources
+C:\webdev\KISC\ccmc\obj\Release\CCMClient.csproj.GenerateResource.Cache
+C:\webdev\KISC\ccmc\bin\Release\CCMClient.exe
+C:\webdev\KISC\ccmc\obj\Release\CCMClient.dialogForm.resources
+\\users\staffSpace\ryan\My Documents\Visual Studio 2005\Projects\ccmc\bin\Release\CCMClient.exe.config
+\\users\staffSpace\ryan\My Documents\Visual Studio 2005\Projects\ccmc\obj\Release\CCMClient.exe
+\\users\staffSpace\ryan\My Documents\Visual Studio 2005\Projects\ccmc\bin\Release\CCMClient.exe
+\\users\staffSpace\ryan\My Documents\Visual Studio 2005\Projects\ccmc\obj\Release\ResolveAssemblyReference.cache
+\\users\staffSpace\ryan\My Documents\Visual Studio 2005\Projects\ccmc\obj\Release\CCMClient.connections.resources
+\\users\staffSpace\ryan\My Documents\Visual Studio 2005\Projects\ccmc\obj\Release\CCMClient.DDE.DDEListener.resources
+\\users\staffSpace\ryan\My Documents\Visual Studio 2005\Projects\ccmc\obj\Release\CCMClient.dialogForm.resources
+\\users\staffSpace\ryan\My Documents\Visual Studio 2005\Projects\ccmc\obj\Release\CCMClient.Form1.resources
+\\users\staffSpace\ryan\My Documents\Visual Studio 2005\Projects\ccmc\obj\Release\CCMClient.message.resources
+\\users\staffSpace\ryan\My Documents\Visual Studio 2005\Projects\ccmc\obj\Release\CCMClient.NotifyIconEx.resources
+\\users\staffSpace\ryan\My Documents\Visual Studio 2005\Projects\ccmc\obj\Release\CCMClient.Properties.Resources.resources
+\\users\staffSpace\ryan\My Documents\Visual Studio 2005\Projects\ccmc\obj\Release\CCMClient.csproj.GenerateResource.Cache
+C:\Users\ryan\Documents\Visual Studio 2005\Projects\CCMVSProject\bin\Release\CCMClient.exe.config
+C:\Users\ryan\Documents\Visual Studio 2005\Projects\CCMVSProject\obj\Release\CCMClient.exe
+C:\Users\ryan\Documents\Visual Studio 2005\Projects\CCMVSProject\bin\Release\CCMClient.exe
+C:\Users\ryan\Documents\Visual Studio 2005\Projects\CCMVSProject\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ryan\Documents\Visual Studio 2005\Projects\CCMVSProject\obj\Release\CCMClient.connections.resources
+C:\Users\ryan\Documents\Visual Studio 2005\Projects\CCMVSProject\obj\Release\CCMClient.DDE.DDEListener.resources
+C:\Users\ryan\Documents\Visual Studio 2005\Projects\CCMVSProject\obj\Release\CCMClient.dialogForm.resources
+C:\Users\ryan\Documents\Visual Studio 2005\Projects\CCMVSProject\obj\Release\CCMClient.Form1.resources
+C:\Users\ryan\Documents\Visual Studio 2005\Projects\CCMVSProject\obj\Release\CCMClient.message.resources
+C:\Users\ryan\Documents\Visual Studio 2005\Projects\CCMVSProject\obj\Release\CCMClient.NotifyIconEx.resources
+C:\Users\ryan\Documents\Visual Studio 2005\Projects\CCMVSProject\obj\Release\CCMClient.Properties.Resources.resources
+C:\Users\ryan\Documents\Visual Studio 2005\Projects\CCMVSProject\obj\Release\CCMClient.csproj.GenerateResource.Cache
+C:\Users\ryan\Documents\Visual Studio 2005\Projects\CCMVSProject_public\bin\Release\CCMClient.exe.config
+C:\Users\ryan\Documents\Visual Studio 2005\Projects\CCMVSProject_public\obj\Release\CCMClient.exe
+C:\Users\ryan\Documents\Visual Studio 2005\Projects\CCMVSProject_public\bin\Release\CCMClient.exe
+C:\Users\ryan\Documents\Visual Studio 2005\Projects\CCMVSProject_public\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ryan\Documents\Visual Studio 2005\Projects\CCMVSProject_public\obj\Release\CCMClient.connections.resources
+C:\Users\ryan\Documents\Visual Studio 2005\Projects\CCMVSProject_public\obj\Release\CCMClient.DDE.DDEListener.resources
+C:\Users\ryan\Documents\Visual Studio 2005\Projects\CCMVSProject_public\obj\Release\CCMClient.dialogForm.resources
+C:\Users\ryan\Documents\Visual Studio 2005\Projects\CCMVSProject_public\obj\Release\CCMClient.Form1.resources
+C:\Users\ryan\Documents\Visual Studio 2005\Projects\CCMVSProject_public\obj\Release\CCMClient.message.resources
+C:\Users\ryan\Documents\Visual Studio 2005\Projects\CCMVSProject_public\obj\Release\CCMClient.NotifyIconEx.resources
+C:\Users\ryan\Documents\Visual Studio 2005\Projects\CCMVSProject_public\obj\Release\CCMClient.Properties.Resources.resources
+C:\Users\ryan\Documents\Visual Studio 2005\Projects\CCMVSProject_public\obj\Release\CCMClient.csproj.GenerateResource.Cache

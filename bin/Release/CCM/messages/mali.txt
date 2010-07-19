@@ -1,0 +1,6 @@
+<PACKAGE>
+users=ali
+file=%showPopup%
+message=ur cool
+title=tenzing
+</PACKAGE>
