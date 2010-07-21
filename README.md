@@ -1,4 +1,4 @@
-# Corporate Computer Manager ## 
+# Corporate Computer Manager
 Corporate Computer Manager Client - for Windows XP, Vista, 7, 2003, 2008 - Requires a current .NET framework.
 ![Preview of CCM][ccmadminss]
 --------
