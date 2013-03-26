@@ -56,7 +56,7 @@ Finally, the application is meant to be initially launched from a network share,
 
 That's a lot of them anyway.
 
-Anyway, just thought I'd open source this in case folks need any or all of it.
+Anyway, just thought I'd open source this since it is over 10 years old now, in case folks need any or all of it.
 
 <>< Reticon
 
